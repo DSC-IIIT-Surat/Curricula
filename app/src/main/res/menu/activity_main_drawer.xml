@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group>
+        <item
+            android:id="@+id/uiMode"
+            android:icon="@drawable/ic_ui_mode"
+            android:title="@string/ui_mode" />
+        <item
+            android:id="@+id/nav_academic_calendar"
+            android:icon="@drawable/ic_academic_calendar"
+            android:title="@string/menu_academic_calendar" />
+    </group>
+
+    <!--<item android:title="Time Table">-->
+    <!--<menu>-->
+    <!--<item-->
+    <!--android:id="@+id/nav_firstyear_timetable"-->
+    <!--android:icon="@drawable/ic_firstyear_timetable"-->
+    <!--android:title="First Year" />-->
+    <!--<item-->
+    <!--android:id="@+id/nav_secondyear_timetable"-->
+    <!--android:icon="@drawable/ic_secondyear_timetable"-->
+    <!--android:title="Second Year" />-->
+    <!--</menu>-->
+    <!--</item>-->
+
+    <item android:title="@string/menu_title_contribute">
+        <menu>
+            <item
+                android:id="@+id/nav_add_materials"
+                android:icon="@drawable/ic_add_material"
+                android:title="@string/menu_add_materials" />
+
+            <item
+                android:id="@+id/nav_contribute"
+                android:icon="@drawable/ic_contribute"
+                android:title="@string/menu_github" />
+            <item
+                android:id="@+id/nav_feedback"
+                android:icon="@drawable/ic_feedback"
+                android:title="@string/menu_feedback" />
+
+            <item
+                android:id="@+id/nav_share_app"
+                android:icon="@drawable/ic_share"
+                android:title="@string/menu_share_app" />
+        </menu>
+    </item>
+
+</menu>

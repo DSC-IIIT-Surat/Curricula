@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#000000</color>
+    <color name="colorPrimaryDark">#ffffff</color>
+    <color name="colorAccent">#FFFFFF</color>
+
+    <color name="semTextColor">#ffffff</color>
+    <color name="subjectNameColor">#ffffff</color>
+
+    <color name="activityBackColor">#000000</color>
+
+    <color name="toolbarFontColor">#ffffff</color>
+
+    <color name="expListGroupBgColor">#ffffff</color>
+    <color name="expListGroupTextColor">#000000</color>
+    <color name="expListItemTextColor">#ffffff</color>
+
+</resources>
