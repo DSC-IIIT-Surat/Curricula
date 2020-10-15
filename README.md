@@ -12,7 +12,7 @@ https://developer.android.com/studio
 
 Clone this repository and import into **Android Studio**
 ```bash
-https://github.com/iam844/Curricula.git
+https://github.com/DSC-IIIT-Surat/Curricula
 ```
 
 ## Configuration
