@@ -5,15 +5,44 @@
     <uses-permission android:name="android.permission.INTERNET" />
 
     <application
-        android:usesCleartextTraffic="true"
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/AppTheme">
+        android:theme="@style/AppTheme"
+        android:usesCleartextTraffic="true">
+        <activity
+            android:name=".SemesterActivity"
+            android:exported="false">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
+            android:name=".SubjectContentActivity"
+            android:exported="false">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
+            android:name=".SubjectActivity"
+            android:exported="false">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
+            android:name=".AIActivity"
+            android:exported="false">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
         <activity
             android:name=".MainActivity"
+            android:exported="true"
             android:theme="@style/AppTheme">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -43,14 +72,19 @@
         <activity
             android:name=".SemesterActivity.FourthSemActivity"
             android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".SemesterActivity.SemesterActivity"
+            android:parentActivityName=".MainActivity" />
+
         <activity android:name=".Fragment.CSE4Fragment" />
         <activity android:name=".Fragment.ECE4Fragment" />
-
         <activity
             android:name=".SemesterActivity.SixthSemActivity"
             android:parentActivityName=".MainActivity" />
         <activity android:name=".Fragment.CSE6Fragment" />
         <activity android:name=".Fragment.ECE6Fragment" />
+        <activity android:name=".Fragment.CSE7Fragment" />
+        <activity android:name=".Fragment.ECE7Fragment" />
         <activity
             android:name=".Sem6Activity.ADBMS6Activity"
             android:parentActivityName=".SemesterActivity.SixthSemActivity" />
@@ -75,9 +109,11 @@
         <activity
             android:name=".Sem6Activity.WE6Activity"
             android:parentActivityName=".SemesterActivity.SixthSemActivity" />
-
         <activity
             android:name=".SemesterActivity.FifthSemActivity"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".SemesterActivity.SeventhSemActivity"
             android:parentActivityName=".MainActivity" />
         <activity android:name=".Fragment.CSE5Fragment" />
         <activity android:name=".Fragment.ECE5Fragment" />
@@ -189,6 +225,9 @@
         <activity
             android:name=".Sem4Activity.EMW4Activity"
             android:parentActivityName=".SemesterActivity.FirstSemActivity" />
+        <activity
+            android:name=".Sem7Activity.AIActivity"
+            android:parentActivityName=".SemesterActivity.SeventhSemActivity" />
         <activity
             android:name=".ExtraActivity.AboutActivity"
             android:parentActivityName=".MainActivity" />

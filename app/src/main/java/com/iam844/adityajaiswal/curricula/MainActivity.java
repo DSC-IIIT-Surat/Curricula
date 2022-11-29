@@ -32,6 +32,8 @@ import com.iam844.adityajaiswal.curricula.SemesterActivity.FifthSemActivity;
 import com.iam844.adityajaiswal.curricula.SemesterActivity.FirstSemActivity;
 import com.iam844.adityajaiswal.curricula.SemesterActivity.FourthSemActivity;
 import com.iam844.adityajaiswal.curricula.SemesterActivity.SecondSemActivity;
+import com.iam844.adityajaiswal.curricula.SemesterActivity.SemesterActivity;
+import com.iam844.adityajaiswal.curricula.SemesterActivity.SeventhSemActivity;
 import com.iam844.adityajaiswal.curricula.SemesterActivity.SixthSemActivity;
 import com.iam844.adityajaiswal.curricula.SemesterActivity.ThirdSemActivity;
 
@@ -115,22 +117,6 @@ public class MainActivity extends AppCompatActivity {
 
                         return true;
 
-//                    case R.id.nav_firstyear_timetable:
-                    // close drawer when item is tapped
-//                    mDrawerLayout.closeDrawers();
-//
-//                        Intent firstyear = new Intent(MainActivity.this, FirstYearTimeTableActivity.class);
-//                        startActivity(firstyear);
-//
-//                        return true;
-
-//                    case R.id.nav_secondyear_timetable:
-// close drawer when item is tapped
-//                mDrawerLayout.closeDrawers();
-//                        Intent secondyear = new Intent(MainActivity.this, SecondYearTimeTableActivity.class);
-//                        startActivity(secondyear);
-//
-//                        return true;
 
                     case R.id.nav_add_materials:
 
@@ -192,14 +178,13 @@ public class MainActivity extends AppCompatActivity {
 
         final ArrayList<Semester> semList = new ArrayList<>();
 
-        semList.add(new Semester(R.drawable.ic_sem1, FirstSemActivity.class));
-        semList.add(new Semester(R.drawable.ic_sem2, SecondSemActivity.class));
-        semList.add(new Semester(R.drawable.ic_sem3, ThirdSemActivity.class));
-        semList.add(new Semester(R.drawable.ic_sem4, FourthSemActivity.class));
-        semList.add(new Semester(R.drawable.ic_sem5, FifthSemActivity.class));
-        semList.add(new Semester(R.drawable.ic_sem6, SixthSemActivity.class));
-//        semList.add(new Semester(R.drawable.ic_sem7, FourthSemActivity.class));
-//        semList.add(new Semester(R.drawable.ic_sem8, FourthSemActivity.class));
+        semList.add(new Semester(R.drawable.ic_sem1));
+        semList.add(new Semester(R.drawable.ic_sem2));
+        semList.add(new Semester(R.drawable.ic_sem3));
+        semList.add(new Semester(R.drawable.ic_sem4));
+        semList.add(new Semester(R.drawable.ic_sem5));
+        semList.add(new Semester(R.drawable.ic_sem6));
+        semList.add(new Semester(R.drawable.ic_sem6));
 
         // Create an object of SemAdapter and set Adapter to GirdView
         SemAdapter objSemAdapter = new SemAdapter(this, R.layout.sem_item, semList);
@@ -209,7 +194,11 @@ public class MainActivity extends AppCompatActivity {
         semGridView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
             public void onItemClick(AdapterView<?> parent, View v, int position, long id) {
 
-                startActivity(new Intent(MainActivity.this, semList.get(position).getSemActivity()));
+                int semNo = position + 1;
+                Intent i = new Intent(MainActivity.this, SemesterActivity.class);
+                i.putExtra("semesterCode", Integer.toString(semNo));
+
+                startActivity(i);
 
             }
         });
@@ -240,17 +229,12 @@ public class MainActivity extends AppCompatActivity {
 
         int id = item.getItemId();
 
-        switch (id) {
+        if (id == R.id.menu_about) {
+            Intent about = new Intent(this, AboutActivity.class);
+            startActivity(about);
 
-            case R.id.menu_about:
-
-                Intent about = new Intent(this, AboutActivity.class);
-                startActivity(about);
-
-                return true;
-
-            default:
-                return super.onOptionsItemSelected(item);
+            return true;
         }
+        return super.onOptionsItemSelected(item);
     }
 }

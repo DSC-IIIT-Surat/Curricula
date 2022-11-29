@@ -1,0 +1,289 @@
+{
+    "semester": {
+        "1": [
+            {
+                "code": "CS 101",
+                "name": "Fundamentals of Computers & Programming"
+            },
+            {
+                "name": "English and Communication Skills",
+                "code": "AL 102",
+                "class_materials": [
+                    {
+                        "name": "Body Language - Handout",
+                        "url": "https://drive.google.com/open?id=1WA4Ns_BSly4MGU_7ExLDCuKIXYZvLt5a"
+                    },{
+
+                    }
+                ]
+            }
+        ],
+        "6": [
+            {
+                "code": "",
+                "name": "",
+                "icon": "",
+                "cse": true,
+                "ece": false,
+                "exam_papers": [],
+                "books": [],
+                "class_materials": []
+            }
+        ],
+        "7": [
+            {
+                "code": "CS 701",
+                "name": "Artificial Intelligence",
+                "icon": "ai.png",
+                "cse": true,
+                "ece": true,
+                "exam_papers": [
+                    {
+                        "name": "Mid Sem 18",
+                        "url": "https://google.com"
+                    },
+                    {
+                        "name": "Mid Sem 19",
+                        "url": "https://google.com"
+                    }
+                ],
+                "books": [
+                    {
+                        "name": "A book name",
+                        "url": "https://gmail.com"
+                    }
+                ],
+                "class_materials": [
+                    {
+                        "name": "A* Algorithm",
+                        "url": "https://gmail.com"
+                    }
+                ]
+            },
+            {
+                "code": "CS 702",
+                "name": "Network Security",
+                "icon": "ns.png",
+                "cse": true,
+                "ece": false,
+                "exam_papers": [
+                    {
+                        "name": "Mid Sem 18",
+                        "url": "https://google.com"
+                    },
+                    {
+                        "name": "Mid Sem 19",
+                        "url": "https://google.com"
+                    }
+                ],
+                "books": [
+                    {
+                        "name": "A book name",
+                        "url": "https://gmail.com"
+                    }
+                ],
+                "Class Material": [
+                    {
+                        "name": "A* Algorithm"
+                    }
+                ]
+            },
+            {
+                "code": "CS 703",
+                "name": "Natural Language Processing",
+                "icon": "nlp.png",
+                "cse": true,
+                "ece": false,
+                "exam_papers": [
+                    {
+                        "name": "Mid Sem 18",
+                        "url": "https://google.com"
+                    },
+                    {
+                        "name": "Mid Sem 19",
+                        "url": "https://google.com"
+                    }
+                ],
+                "books": [
+                    {
+                        "name": "A book name",
+                        "url": "https://gmail.com"
+                    }
+                ],
+                "Class Material": [
+                    {
+                        "name": "A* Algorithm"
+                    }
+                ]
+            },
+            {
+                "code": "AE 704",
+                "name": "Innovation and Entrepreneurship",
+                "icon": "ie.png",
+                "cse": true,
+                "ece": true,
+                "exam_papers": [
+                    {
+                        "name": "Mid Sem 18",
+                        "url": "https://google.com"
+                    },
+                    {
+                        "name": "Mid Sem 19",
+                        "url": "https://google.com"
+                    }
+                ],
+                "books": [
+                    {
+                        "name": "A book name",
+                        "url": "https://gmail.com"
+                    }
+                ],
+                "Class Material": [
+                    {
+                        "name": "A* Algorithm"
+                    }
+                ]
+            },
+            {
+                "code": "CS 751",
+                "name": "Block-chain Technology",
+                "icon": "bcl.png",
+                "cse": true,
+                "ece": true,
+                "exam_papers": [
+                    {
+                        "name": "Mid Sem 18",
+                        "url": "https://google.com"
+                    },
+                    {
+                        "name": "Mid Sem 19",
+                        "url": "https://google.com"
+                    }
+                ],
+                "books": [
+                    {
+                        "name": "A book name",
+                        "url": "https://gmail.com"
+                    }
+                ],
+                "Class Material": [
+                    {
+                        "name": "A* Algorithm"
+                    }
+                ]
+            },
+            {
+                "code": "CS 761",
+                "name": "Computer Ethics and Public Policy",
+                "icon": "cepp.png",
+                "cse": true,
+                "ece": true,
+                "exam_papers": [
+                    {
+                        "name": "Mid Sem 18",
+                        "url": "https://google.com"
+                    },
+                    {
+                        "name": "Mid Sem 19",
+                        "url": "https://google.com"
+                    }
+                ],
+                "books": [
+                    {
+                        "name": "A book name",
+                        "url": "https://gmail.com"
+                    }
+                ],
+                "Class Material": [
+                    {
+                        "name": "A* Algorithm"
+                    }
+                ]
+            },
+            {
+                "code": "CS 762",
+                "name": "Web 2.0",
+                "icon": "web2.png",
+                "cse": true,
+                "ece": true,
+                "exam_papers": [
+                    {
+                        "name": "Mid Sem 18",
+                        "url": "https://google.com"
+                    },
+                    {
+                        "name": "Mid Sem 19",
+                        "url": "https://google.com"
+                    }
+                ],
+                "books": [
+                    {
+                        "name": "A book name",
+                        "url": "https://gmail.com"
+                    }
+                ],
+                "Class Material": [
+                    {
+                        "name": "A* Algorithm"
+                    }
+                ]
+            },
+            {
+                "code": "EC 702",
+                "name": "Internet of Things",
+                "icon": "iot.png",
+                "cse": false,
+                "ece": true,
+                "exam_papers": [
+                    {
+                        "name": "Mid Sem 18",
+                        "url": "https://google.com"
+                    },
+                    {
+                        "name": "Mid Sem 19",
+                        "url": "https://google.com"
+                    }
+                ],
+                "books": [
+                    {
+                        "name": "A book name",
+                        "url": "https://gmail.com"
+                    }
+                ],
+                "Class Material": [
+                    {
+                        "name": "A* Algorithm"
+                    }
+                ]
+            },
+            {
+                "code": "EC 703",
+                "name": "Image Processing and Computer Vision",
+                "icon": "ipcv.png",
+                "cse": false,
+                "ece": true,
+                "exam_papers": [
+                    {
+                        "name": "Mid Sem 18",
+                        "url": "https://google.com"
+                    },
+                    {
+                        "name": "Mid Sem 19",
+                        "url": "https://google.com"
+                    }
+                ],
+                "books": [
+                    {
+                        "name": "A book name",
+                        "url": "https://gmail.com"
+                    }
+                ],
+                "Class Material": [
+                    {
+                        "name": "A* Algorithm"
+                    }
+                ]
+            }
+        ]
+    }
+}

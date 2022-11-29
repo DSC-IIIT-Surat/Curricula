@@ -11,7 +11,7 @@ https://developer.android.com/studio
 ```
 
 Clone this repository and import into **Android Studio**
-```bash
+```bash  
 https://github.com/DSC-IIIT-Surat/Curricula
 ```
 
