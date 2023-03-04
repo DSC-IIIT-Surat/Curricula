@@ -14,6 +14,7 @@ import androidx.annotation.Nullable;
 import androidx.fragment.app.Fragment;
 
 import com.iam844.adityajaiswal.curricula.Adapter.SubjectAdapter;
+import com.iam844.adityajaiswal.curricula.IconData;
 import com.iam844.adityajaiswal.curricula.Model.Subject;
 import com.iam844.adityajaiswal.curricula.R;
 import com.iam844.adityajaiswal.curricula.SubjectContentActivity;
@@ -31,14 +32,15 @@ import java.io.StringWriter;
 import java.io.Writer;
 import java.nio.charset.StandardCharsets;
 import java.util.ArrayList;
+import java.util.HashMap;
 
 public class CSEFragment extends Fragment {
 
     private String semesterCode;
     private ArrayList<Subject> subjectList;
 
-   public CSEFragment(String semCode){
-       semesterCode = semCode;
+    public CSEFragment(String semCode) {
+        semesterCode = semCode;
     }
 
     @Nullable
@@ -98,8 +100,16 @@ public class CSEFragment extends Fragment {
             for (int i = 0; i < allSubjects.length(); i++) {
 
                 JSONObject tempSub = allSubjects.getJSONObject(i);
-                if (tempSub.getBoolean("cse"))
-                    subjectList.add(new Subject(tempSub.getString("name"), tempSub.getString("code"), R.drawable.ic_hpc6, SubjectContentActivity.class));
+                System.out.println(tempSub);
+                if (tempSub.getBoolean("cse")) {
+                    IconData icons = new IconData();
+                    HashMap<String, Integer> iconMap = icons.getIconData();
+
+                    Integer iconResId = iconMap.get(tempSub.getString("icon"));
+
+                    subjectList.add(new Subject(tempSub.getString("name"), tempSub.getString("code"),
+                           iconResId  , SubjectContentActivity.class));
+                }
             }
 
 

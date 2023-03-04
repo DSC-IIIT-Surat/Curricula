@@ -1,8 +1,12 @@
 package com.iam844.adityajaiswal.curricula.Adapter;
 
 import android.content.Context;
+
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
+
+import android.graphics.drawable.Drawable;
+import android.net.Uri;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -13,6 +17,8 @@ import android.widget.TextView;
 import com.iam844.adityajaiswal.curricula.R;
 import com.iam844.adityajaiswal.curricula.Model.Subject;
 
+import java.io.FileNotFoundException;
+import java.io.InputStream;
 import java.util.ArrayList;
 
 public class SubjectAdapter extends ArrayAdapter {
@@ -43,7 +49,7 @@ public class SubjectAdapter extends ArrayAdapter {
 
         View view = convertView;
 
-        if(view == null){
+        if (view == null) {
 
             LayoutInflater inflater = (LayoutInflater) getContext().getSystemService(Context.LAYOUT_INFLATER_SERVICE);
             view = inflater.inflate(R.layout.subject_item, null);

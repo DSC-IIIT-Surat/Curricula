@@ -14,6 +14,7 @@ import androidx.appcompat.app.ActionBarDrawerToggle;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+import android.os.Handler;
 import android.view.Menu;
 import android.view.MenuInflater;
 import android.view.MenuItem;
@@ -28,14 +29,7 @@ import com.iam844.adityajaiswal.curricula.ExtraActivity.AcademicCalendarActivity
 import com.iam844.adityajaiswal.curricula.ExtraActivity.AboutActivity;
 import com.iam844.adityajaiswal.curricula.Adapter.SemAdapter;
 import com.iam844.adityajaiswal.curricula.Model.Semester;
-import com.iam844.adityajaiswal.curricula.SemesterActivity.FifthSemActivity;
-import com.iam844.adityajaiswal.curricula.SemesterActivity.FirstSemActivity;
-import com.iam844.adityajaiswal.curricula.SemesterActivity.FourthSemActivity;
-import com.iam844.adityajaiswal.curricula.SemesterActivity.SecondSemActivity;
 import com.iam844.adityajaiswal.curricula.SemesterActivity.SemesterActivity;
-import com.iam844.adityajaiswal.curricula.SemesterActivity.SeventhSemActivity;
-import com.iam844.adityajaiswal.curricula.SemesterActivity.SixthSemActivity;
-import com.iam844.adityajaiswal.curricula.SemesterActivity.ThirdSemActivity;
 
 import java.util.ArrayList;
 
@@ -89,23 +83,34 @@ public class MainActivity extends AppCompatActivity {
                 switch (id) {
 
                     case R.id.uiMode:
+                        mDrawerLayout.closeDrawers();
 
-                        if (lightMode) {
-                            //dark mode
-                            AppCompatDelegate.setDefaultNightMode(AppCompatDelegate.MODE_NIGHT_YES);
-                            lightMode = false;
-                        } else {
-                            //light mode
-                            AppCompatDelegate.setDefaultNightMode(AppCompatDelegate.MODE_NIGHT_NO);
-                            lightMode = true;
-                        }
+                        Handler handler = new Handler();
+                        handler.postDelayed(new Runnable() {
+                            @Override
+                            public void run() {
+                                if (lightMode) {
+                                    //dark mode
+                                    AppCompatDelegate.setDefaultNightMode(AppCompatDelegate.MODE_NIGHT_YES);
+                                    lightMode = false;
+                                } else {
+                                    //light mode
+                                    AppCompatDelegate.setDefaultNightMode(AppCompatDelegate.MODE_NIGHT_NO);
+                                    lightMode = true;
+                                }
 
-                        SharedPreferences setting0 = getSharedPreferences(PREFS_NAME, 0);
-                        SharedPreferences.Editor editor0 = setting0.edit();
-                        editor0.putBoolean("key0", lightMode);
-                        editor0.apply();
+
+                                SharedPreferences setting0 = getSharedPreferences(PREFS_NAME, 0);
+                                SharedPreferences.Editor editor0 = setting0.edit();
+                                editor0.putBoolean("key0", lightMode);
+                                editor0.apply();
+
+
+                            }
+                        }, 500);
 
                         return true;
+
 
                     case R.id.nav_academic_calendar:
 
@@ -125,9 +130,8 @@ public class MainActivity extends AppCompatActivity {
 
                         Intent intentAddMaterial = new Intent(Intent.ACTION_VIEW);
                         intentAddMaterial.setData(Uri.parse("https://drive.google.com/drive/folders/1DzCTj34XOVlmk2pmAMtCr8GMtECjRBa4?usp=sharing"));
-                        if (intentAddMaterial.resolveActivity(getPackageManager()) != null) {
-                            startActivity(intentAddMaterial);
-                        }
+                        startActivity(intentAddMaterial);
+
                         return true;
 
                     case R.id.nav_feedback:
@@ -137,9 +141,9 @@ public class MainActivity extends AppCompatActivity {
 
                         Intent intentFeedback = new Intent(Intent.ACTION_SENDTO);
                         intentFeedback.setData(Uri.parse("mailto:appcurricula@gmail.com")); // only email apps should handle this
-                        if (intentFeedback.resolveActivity(getPackageManager()) != null) {
-                            startActivity(intentFeedback);
-                        }
+
+                        startActivity(intentFeedback);
+
                         return true;
 
                     case R.id.nav_contribute:
@@ -149,9 +153,8 @@ public class MainActivity extends AppCompatActivity {
 
                         Intent intentContribute = new Intent(Intent.ACTION_VIEW);
                         intentContribute.setData(Uri.parse("https://github.com/iam844/Curricula-1.0"));
-                        if (intentContribute.resolveActivity(getPackageManager()) != null) {
-                            startActivity(intentContribute);
-                        }
+                        startActivity(intentContribute);
+
                         return true;
 
                     case R.id.nav_share_app:
@@ -184,7 +187,7 @@ public class MainActivity extends AppCompatActivity {
         semList.add(new Semester(R.drawable.ic_sem4));
         semList.add(new Semester(R.drawable.ic_sem5));
         semList.add(new Semester(R.drawable.ic_sem6));
-        semList.add(new Semester(R.drawable.ic_sem6));
+        semList.add(new Semester(R.drawable.ic_sem7));
 
         // Create an object of SemAdapter and set Adapter to GirdView
         SemAdapter objSemAdapter = new SemAdapter(this, R.layout.sem_item, semList);

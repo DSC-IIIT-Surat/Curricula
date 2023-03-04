@@ -40,5 +40,12 @@
     <string name="menu_share_app">Share App</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="AboutMaintainer">Suraj Sisodia</string>
+    <string name="maintainer">Maintainer</string>
+
+
+    <string-array name="icons">
+        <item>@drawable/ic_cp6</item>
+    </string-array>
 
 </resources>

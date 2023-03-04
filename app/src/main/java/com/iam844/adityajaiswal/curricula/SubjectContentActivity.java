@@ -80,6 +80,12 @@ public class SubjectContentActivity extends AppCompatActivity {
 
     }
 
+    @Override
+    public boolean onSupportNavigateUp() {
+        onBackPressed();
+        return true;
+    }
+
     public void setData(JSONObject data) {
 
 
@@ -87,6 +93,7 @@ public class SubjectContentActivity extends AppCompatActivity {
             ActionBar actionBar = getSupportActionBar();
             actionBar.setTitle(data.getString("name"));
             actionBar.setDisplayHomeAsUpEnabled(true);
+
 
             listAdapter = new MaterialExpandableListAdapter(this, listDataHeader, listHash);
             listView.setAdapter(listAdapter);
@@ -142,6 +149,7 @@ public class SubjectContentActivity extends AppCompatActivity {
 
         List<DataURL> classMaterials = new ArrayList<>();
         List<DataURL> books = new ArrayList<>();
+        List<DataURL> examPapers = new ArrayList<>();
 
         try {
             if (data.has("class_materials"))
@@ -168,6 +176,18 @@ public class SubjectContentActivity extends AppCompatActivity {
                         books.add(new DataURL(temp.getString("name"), temp.getString("url")));
                     }
                     listHash.put("Books", books);
+                }
+
+            if (data.has("exam_papers"))
+                if (data.getJSONArray("exam_papers").length() != 0) {
+                    listDataHeader.add("Exam Papers");
+                    JSONArray tempArray = data.getJSONArray("exam_papers");
+
+                    for (int i = 0; i < tempArray.length(); i++) {
+                        JSONObject temp = tempArray.getJSONObject(i);
+                        examPapers.add(new DataURL(temp.getString("name"), temp.getString("url")));
+                    }
+                    listHash.put("Exam Papers", examPapers);
                 }
 
         } catch (JSONException e) {

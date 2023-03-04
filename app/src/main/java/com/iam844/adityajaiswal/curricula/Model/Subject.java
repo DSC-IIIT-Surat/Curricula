@@ -29,4 +29,5 @@ public class Subject {
     public Class getSubActivity() {
         return subActivity;
     }
+
 }

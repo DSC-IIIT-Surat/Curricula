@@ -9,7 +9,6 @@ import android.content.Intent;
 import android.os.Bundle;
 
 import com.google.android.material.tabs.TabLayout;
-import com.iam844.adityajaiswal.curricula.Adapter.Branch7Adapter;
 import com.iam844.adityajaiswal.curricula.Adapter.BranchAdapter;
 import com.iam844.adityajaiswal.curricula.R;
 
@@ -22,7 +21,6 @@ public class SemesterActivity extends AppCompatActivity {
 
         Intent i = getIntent();
         String semesterCode = i.getExtras().getString("semesterCode");
-//        String semesterCode = "7";
 
         //Toolbar
         Toolbar toolbar = findViewById(R.id.toolbar_subject_sem);

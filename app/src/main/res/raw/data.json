@@ -2,285 +2,3067 @@
     "semester": {
         "1": [
             {
+                "code": "EE 104",
+                "name": "Electrical Networks",
+                "ece": true,
+                "cse": true,
+                "icon": "en1",
+                "exam_papers": [
+                    {
+                        "name": "MidSem 18",
+                        "url": "https://drive.google.com/open?id=1o1xdjsAsFJF-8rBnva0i0B4z2PqxHwFi"
+                    },
+                    {
+                        "name": "EndSem 18",
+                        "url": "https://drive.google.com/open?id=1qgTZ9T00sXxBh702D4zPp4M54ijVvmmc"
+                    }
+                ],
+                "class_materials": [],
+                "books": [
+                    {
+                        "name": "Electrical Technology - Theraja",
+                        "url": "https://drive.google.com/open?id=1wyeTHKs5K5zwE-UlKmPLz8vKYPuw9BKL"
+                    }
+                ]
+            },
+            {
+                "code": "AS 105",
+                "name": "Engineering Mathematics",
+                "ece": true,
+                "cse": true,
+                "icon": "em1",
+                "exam_papers": [
+                    {
+                        "name": "MidSem 18",
+                        "url": "https://drive.google.com/open?id=1fOUrdGUF69hmyLTVU7Ad9TksUapCMeKn"
+                    },
+                    {
+                        "name": "EndSem 18",
+                        "url": "https://drive.google.com/open?id=1eQ1CiMxcufEQ2bxHeFRygckNRYS-ts2Z"
+                    },
+                    {
+                        "name": "MidSem 17",
+                        "url": "https://drive.google.com/open?id=19yk1AqiHiSf9cCVHCI_Y6tyH2ZZtc30R"
+                    },
+                    {
+                        "name": "EndSem 17",
+                        "url": "https://drive.google.com/open?id=1978kbWYHndtTI89z-CCjrkXL8un2EIqg"
+                    },
+                    {
+                        "name": "Class Test 17",
+                        "url": "https://drive.google.com/open?id=1sS5svCO4xQsu1-iO6QKfFLo98WLzHBM0"
+                    }
+                ],
+                "class_materials": [
+                    {
+                        "name": "Decomposition of Matrix",
+                        "url": "https://drive.google.com/open?id=1jmQ_Z5o-vxVhPIvdnKc07MwwmaNe6ePB"
+                    }
+                ],
+                "books": [
+                    {
+                        "name": "B.S. Grewal",
+                        "url": "https://drive.google.com/open?id=1oEq3_9QCnkD3mLKPdrz2UmyphxkSDMGe"
+                    },
+                    {
+                        "name": "S.S.Patil Curve Tracing",
+                        "url": "https://drive.google.com/open?id=1PMhnZabKnlO0isd90r7py2tiKRaAfyZ-"
+                    },
+                    {
+                        "name": "Thomas Calculus",
+                        "url": "https://drive.google.com/open?id=1an0Q0Fi1kEEOUzziOqu_7iiQGmePN4gw"
+                    }
+                ]
+            },
+            {
+                "code": "AS 103",
+                "name": "Engineering Physics",
+                "ece": true,
+                "cse": true,
+                "icon": "ep1",
+                "exam_papers": [
+                    {
+                        "name": "MidSem 18",
+                        "url": "https://drive.google.com/open?id=1yscLnE0Bovl90Yno2dSb4w2hWkQ9C7i-"
+                    },
+                    {
+                        "name": "EndSem 18",
+                        "url": "https://drive.google.com/open?id=11ZQRuf4G5sjscuhGMDjAuu6Sw-kmL9LV"
+                    },
+                    {
+                        "name": "MidSem 17",
+                        "url": "https://drive.google.com/open?id=1idLi6tiUMapnh55GhMMWCzW1Zhvv_gAp"
+                    },
+                    {
+                        "name": "EndSem 17",
+                        "url": "https://drive.google.com/open?id=1HI2B8ZSEEkimCr2NDRYFGf_mWinZiO51"
+                    }
+                ],
+                "class_materials": [
+                    {
+                        "name": "EP Notes",
+                        "url": "https://drive.google.com/open?id=18Eyg7lySWzdw88Ul4RilRD-ouXixjN9g"
+                    },
+                    {
+                        "name": "Laser Notes",
+                        "url": "https://drive.google.com/open?id=1yjGW5jHwK4jvzEewPhKdmi64EXRInIbA"
+                    },
+                    {
+                        "name": "Laser PPT",
+                        "url": "https://drive.google.com/open?id=15JhHNGN2_N3OL3SmZXvwjtNXE3qz7g3z"
+                    },
+                    {
+                        "name": "LASER",
+                        "url": "https://drive.google.com/open?id=1ileG_tRQTphxxW_bKhlbYO4zTEEEE3Ce"
+                    }
+                ],
+                "books": [
+                    {
+                        "name": "Introduction To Electrodynamics - Griffiths",
+                        "url": "https://drive.google.com/open?id=1Gy5RdISHbCYV7jefVGTpLZAHPSYO0Suq"
+                    }
+                ]
+            },
+            {
                 "code": "CS 101",
-                "name": "Fundamentals of Computers & Programming"
+                "name": "Fundamentals of Computers & Programming",
+                "ece": true,
+                "cse": true,
+                "icon": "fcp1",
+                "exam_papers": [
+                    {
+                        "name": "MidSem 18",
+                        "url": "https://drive.google.com/open?id=1His7PTaSuBt_LQi3w833XqD3Qy-gM2pF"
+                    },
+                    {
+                        "name": "EndSem 18",
+                        "url": "https://drive.google.com/open?id=1DsW8JCfxWwdmOyN6BM4U5FUZf5YNE-Cn"
+                    },
+                    {
+                        "name": "MidSem 17",
+                        "url": "https://drive.google.com/open?id=1QVH3L0tuWwy7o76Jmp7nJdJdTQLhCll5"
+                    },
+                    {
+                        "name": "EndSem 17",
+                        "url": "https://drive.google.com/open?id=1Vmsj0rQcT7_y3IhxG5FVxJA2b_DNJTRV"
+                    }
+                ],
+                "class_materials": [
+                    {
+                        "name": "Introduction to Programming",
+                        "url": "https://drive.google.com/open?id=1O8YuGIATCA8Ytv5BrUCmyJ7nmubJgdh0"
+                    },
+                    {
+                        "name": "Operators and Expressions",
+                        "url": "https://drive.google.com/open?id=1XG3sT6tJcNy6Cn1SQgX0NzfSG0qJMUbs"
+                    },
+                    {
+                        "name": "Decision Making and Branching",
+                        "url": "https://drive.google.com/open?id=1dyl3T9MqiCCpR1HwC6s7BqaTf4E7GBKb"
+                    },
+                    {
+                        "name": "Decision Making and Looping",
+                        "url": "https://drive.google.com/open?id=1ec5SVO-OiRSOI10sVO3MYMw3ezmC1CXi"
+                    },
+                    {
+                        "name": "Arrays",
+                        "url": "https://drive.google.com/open?id=1X8OIABMlcmLAycfQ169mS9UWI8h2vMXS"
+                    },
+                    {
+                        "name": "Strings",
+                        "url": "https://drive.google.com/open?id=1_V9Iw7D7plAML-k5i4gV2qYp9uwUPUi9"
+                    },
+                    {
+                        "name": "Functions",
+                        "url": "https://drive.google.com/open?id=1jm8ocCLhU4-tt95Gn5Y9LEJj0Y_PuTXQ"
+                    },
+                    {
+                        "name": "Structures and Unions",
+                        "url": "https://drive.google.com/open?id=1UghL5-rpZYvs1SLHeVZvyCAOA8u_4LUM"
+                    },
+                    {
+                        "name": "Pointers",
+                        "url": "https://drive.google.com/open?id=1a_SNoFw-BEfT7e5ssNZgvHr3ucBWslmz"
+                    },
+                    {
+                        "name": "Intro to Computer and It's Architecture",
+                        "url": "https://drive.google.com/open?id=1_38-QdNl6byeRXguJvYGQQc5ztFGru6p"
+                    },
+                    {
+                        "name": "Number System",
+                        "url": "https://drive.google.com/open?id=1kVmxSpaPrhg00I_SkQuiCmHuUTz9zZvE"
+                    },
+                    {
+                        "name": "Computer Architecture",
+                        "url": "https://drive.google.com/open?id=10rm8c_2Hd2larr6mz3Ipe422yl00bVTH"
+                    },
+                    {
+                        "name": "Memory",
+                        "url": "https://drive.google.com/open?id=1IkpbOZ2nNW--Zz4MnGxJNQ_yIfVRm0nk"
+                    },
+                    {
+                        "name": "Computer Languages",
+                        "url": "https://drive.google.com/open?id=1EVj3MqkRmKsWqXgCApIXDYIoODlDmNyE"
+                    },
+                    {
+                        "name": "Computer Program",
+                        "url": "https://drive.google.com/open?id=1OB8yjORAuo5gWAgH17taE3f7MoAAcFc1"
+                    },
+                    {
+                        "name": "Computer Networks",
+                        "url": "https://drive.google.com/open?id=1LVdV9JhgvVxtVcU2yEXW4K630t7CeciS"
+                    },
+                    {
+                        "name": "Operating System",
+                        "url": "https://drive.google.com/open?id=1x2DlYpM9qHlpb1wSSy7SE_Cq4ZMOHalJ"
+                    }
+                ],
+                "books": [
+                    {
+                        "name": "ANSI C",
+                        "url": "https://drive.google.com/open?id=1PkqKfiePvcw24dzlVHc4C5KK2NzSO4t4"
+                    },
+                    {
+                        "name": "Balaguru - Solutions",
+                        "url": "https://drive.google.com/open?id=14fnzILEM71nzefv09EaGXrlev3BdN1x2"
+                    },
+                    {
+                        "name": "Programming in C",
+                        "url": "https://drive.google.com/open?id=1Ic27Thon8ExiQd8M_MBxYbin4cACzceu"
+                    },
+                    {
+                        "name": "Programming with C - Byron Gottfried",
+                        "url": "https://drive.google.com/open?id=1pdwRGz84dbaaoXukM2V3gps1aoe9dEUk"
+                    }
+                ]
             },
             {
                 "name": "English and Communication Skills",
                 "code": "AL 102",
+                "cse": true,
+                "ece": true,
+                "icon": "ecs1",
+                "books": [],
                 "class_materials": [
                     {
                         "name": "Body Language - Handout",
                         "url": "https://drive.google.com/open?id=1WA4Ns_BSly4MGU_7ExLDCuKIXYZvLt5a"
-                    },{
-
+                    },
+                    {
+                        "name": "Body Language",
+                        "url": "https://drive.google.com/open?id=14aB1GCglIlOeWnjUW2IahSHCNQhhprRT"
+                    },
+                    {
+                        "name": "Complaint Letter",
+                        "url": "https://drive.google.com/open?id=1n6rZaEJsgxfgB-boOW91OC7q512jjZzX"
+                    },
+                    {
+                        "name": "Cover Letter",
+                        "url": "https://drive.google.com/open?id=12bZJQJUNGaLM4NIwRK3lgiEmJ_rJYrzm"
+                    },
+                    {
+                        "name": "English Job Interview",
+                        "url": "https://drive.google.com/open?id=1VWf2WMG7iJ6zj5HIZkLhwky7xl3YX2Lh"
+                    },
+                    {
+                        "name": "Group Discussion Notes",
+                        "url": "https://drive.google.com/open?id=12CVzhXmjJ9peou3uILDjeHwAKye0iZle"
+                    },
+                    {
+                        "name": "Inquiry Letter",
+                        "url": "https://drive.google.com/open?id=1LfNVMW2sJXMwehf2qKLWHOGAjEJLRDhq"
+                    },
+                    {
+                        "name": "Interviews",
+                        "url": "https://drive.google.com/open?id=1MYb4qhqKlxyU5XQsoreXVsTQB-Ptmrsv"
+                    },
+                    {
+                        "name": "Job Interview FAQs",
+                        "url": "https://drive.google.com/open?id=12vsCM7v3fTyYHMGRZGFvWV-rA2GGrz1z"
+                    },
+                    {
+                        "name": "Leave Application Letter",
+                        "url": "https://drive.google.com/open?id=18-HWzytozS7QswJhq7Y0F3AHUd1LU237"
+                    },
+                    {
+                        "name": "Letter Writing & Sample Questions",
+                        "url": "https://drive.google.com/open?id=14z8vUhsd7H-Fj9DHeMCuHm6TziGLZPre"
+                    },
+                    {
+                        "name": "Non Verbal Communication",
+                        "url": "https://drive.google.com/open?id=1Dk1HmtR2SOilUzD6IkGyUheOp2B0ziiv"
+                    },
+                    {
+                        "name": "Order Letter",
+                        "url": "https://drive.google.com/open?id=1t4OleOIB7fpqPd6HMxFSCnc1avWqR8vA"
+                    },
+                    {
+                        "name": "Presentation Skills Notes",
+                        "url": "https://drive.google.com/open?id=1RptHVBQgkFKvZJTRGkqQ4gcjDCdXGbcv"
+                    },
+                    {
+                        "name": "Report Writing",
+                        "url": "https://drive.google.com/open?id=1cU0SMPxZLRPVlT3m9ORF_EYHbPR_eHw2"
+                    },
+                    {
+                        "name": "Resume",
+                        "url": "https://drive.google.com/open?id=1kmY0TeG_1OCSdBP8o2Ub3v5MNAciLb6K"
+                    },
+                    {
+                        "name": "Sample CV",
+                        "url": "https://drive.google.com/open?id=1Pid96teGzUOF1VT7FLl5T17utsndHj4Z"
+                    },
+                    {
+                        "name": "Sample Report",
+                        "url": "https://drive.google.com/open?id=1Afm9dXkz-16uXoMdarGRG_LdMM7gkZIr"
+                    },
+                    {
+                        "name": "Seven C's of Communication",
+                        "url": "https://drive.google.com/open?id=1_f-c9QSRu4zygI43pu3uZpYmf1dpfCGw"
+                    },
+                    {
+                        "name": "SpeechWriting Notes",
+                        "url": "https://drive.google.com/open?id=11MhZNQnRE39DZYhV6qBnZnRtwCThdSnJ"
+                    },
+                    {
+                        "name": "Understanding NVC",
+                        "url": "https://drive.google.com/open?id=17GCtV6z-d2TyM6ulrpSAAHyoyAkBnGOL"
+                    }
+                ],
+                "exam_papers": [
+                    {
+                        "name": "MidSem 18",
+                        "url": "https://drive.google.com/open?id=19Pnawe6J9sq7vxcXhHeN8n0XcA-9L6Sp"
+                    },
+                    {
+                        "name": "EndSem 18",
+                        "url": "https://drive.google.com/open?id=1GDGczqSgJM8WIsqn8ZCLuE7Z80ACCPiL"
+                    },
+                    {
+                        "name": "MidSem 17",
+                        "url": "https://drive.google.com/open?id=1oPJGzPD3yCTmqYe5l3vxGkA0UtF-Ok-6"
+                    },
+                    {
+                        "name": "EndSem 17",
+                        "url": "https://drive.google.com/open?id=1ntlZZV75twL3EbG_cSp6gfw3qTlx-wMm"
+                    }
+                ]
+            }
+        ],
+        "2": [
+            {
+                "code": "EC 206",
+                "name": "Signal and Systems",
+                "ece": true,
+                "cse": true,
+                "icon": "ss2",
+                "exam_papers": [
+                    {
+                        "name": "Tutorial Exam - 1 18",
+                        "url": "https://drive.google.com/open?id=1i7qdlklpikFxq69zEFPIYd-zNKMAGcSD"
+                    },
+                    {
+                        "name": "Tutorial Exam - 2 18",
+                        "url": "https://drive.google.com/open?id=1v-nXNAnOsTwp319ReGSu1jMxQzrCtLzy"
+                    },
+                    {
+                        "name": "MidSem 18",
+                        "url": "https://drive.google.com/open?id=1UyZ5X4mshKtKiyK3a-AlX34rZnBbz1pR"
+                    },
+                    {
+                        "name": "EndSem 18",
+                        "url": "https://drive.google.com/open?id=1TfZW-YmWytTC9Ai0ZIQRQpMpS96XlDj4"
+                    }
+                ],
+                "class_materials": [
+                    {
+                        "name": "Lecture 2",
+                        "url": "https://drive.google.com/open?id=1rC0AIW1aHsdgZ_Wk4Oz9heZTWCULW16M"
+                    },
+                    {
+                        "name": "Lecture 3",
+                        "url": "https://drive.google.com/open?id=107WXYyy2HHfd_2__PvWIPHbRUznZ8yMl"
+                    },
+                    {
+                        "name": "Lecture 4",
+                        "url": "https://drive.google.com/open?id=11U03JWi-qXF_p17L-gtiCBKys-tZb-43"
+                    },
+                    {
+                        "name": "Lecture 5",
+                        "url": "https://drive.google.com/open?id=1Cm9t4NjFxDRKQes3gpx-u-GuA1rwxeHI"
+                    },
+                    {
+                        "name": "Lecture 6",
+                        "url": "https://drive.google.com/open?id=1e-HUyRPlUcnNc_NCj5GUGyJcwGsNjbZb"
+                    },
+                    {
+                        "name": "Lecture 7 - Systems Basic 1",
+                        "url": "https://drive.google.com/open?id=18y9wTOyKrqXgtjS2iKTY9EW3AYbPjPm3"
+                    },
+                    {
+                        "name": "Lecture 7 - Systems Basic 2",
+                        "url": "https://drive.google.com/open?id=1n8tgLwu7ALEbqwQbIeESmOGetYx5Lfpw"
+                    },
+                    {
+                        "name": "Lecture 8 - Property Conv 1",
+                        "url": "https://drive.google.com/open?id=1clyIsjmfjH5_h77ZBsWcvgeNT4gbDv2e"
+                    },
+                    {
+                        "name": "Lecture 8 - Property Conv 2",
+                        "url": "https://drive.google.com/open?id=1q3A6ejoV9SJgMbfpiO25rf7WeQli9muG"
+                    },
+                    {
+                        "name": "Lecture 9 - Convo Corr",
+                        "url": "https://drive.google.com/open?id=1i1FHdoUThnVkRQL2clZwHcJKCYnYbDr8"
+                    },
+                    {
+                        "name": "Lecture 11 - Freq Dom Fourier Series",
+                        "url": "https://drive.google.com/open?id=1RBMz3T1jx6ZGtlAwgP2FjOkgrJH9IG3w"
+                    },
+                    {
+                        "name": "Lecture 12 - Freq Dom Fourier Trans",
+                        "url": "https://drive.google.com/open?id=19UsNf0I047Nm1WJVj4ytRaWtEVvcclFm"
+                    },
+                    {
+                        "name": "Lecture 13 - Freq Dom Dis fs",
+                        "url": "https://drive.google.com/open?id=1U7ykZG2OjxqLNYK0Va1yY3Xw0yRssYio"
+                    },
+                    {
+                        "name": "Machine Leaning & Z-transform  NPTEL courses (1)",
+                        "url": "https://drive.google.com/open?id=1F5TKDc6YBryYhIMQhWzGXYwCWBU8wQ2F"
+                    },
+                    {
+                        "name": "Introduction of CTFT & Inverse FT",
+                        "url": "https://drive.google.com/open?id=1T_OXHtcVNr1Uux1A1-i4hfDd8og18sOX"
+                    },
+                    {
+                        "name": "Properties of Fourier Transform",
+                        "url": "https://drive.google.com/open?id=1iFftzXUMgw5Jj3gkUeZsrCEYysvY_WmY"
+                    },
+                    {
+                        "name": "Discrete Time Fourier Transform(DTFT)",
+                        "url": "https://drive.google.com/open?id=1JUvStNhbI8m5tvFCgNEJPux3bz70VR29"
+                    },
+                    {
+                        "name": "DFT",
+                        "url": "https://drive.google.com/open?id=1LS7qOwXTohHt9BbttgvEFiwpXpOJQaF0"
+                    },
+                    {
+                        "name": "DFT Properties",
+                        "url": "https://drive.google.com/open?id=17F-_xL7bX6sLe46Bt928DBq1qughgaQA"
+                    },
+                    {
+                        "name": "Z-Transform-1",
+                        "url": "https://drive.google.com/open?id=1Ss4TN5Akv-LJU_z39xp1grV_ny7u4HY6"
+                    },
+                    {
+                        "name": "Z-Transform-2",
+                        "url": "https://drive.google.com/open?id=1LVzrb9QnWOH8fplq2CukgYS2Rc3mUkY7"
+                    },
+                    {
+                        "name": "Z-Transform-3",
+                        "url": "https://drive.google.com/open?id=13rlrlo4IutBwmSt6rLGS3sD8pnIXwFax"
+                    }
+                ],
+                "books": [
+                    {
+                        "name": "BP Lathi - Linear Systems and Signals",
+                        "url": "https://drive.google.com/open?id=1Tdsu1bR5Kjm7qOHvtE4c-TaC4GSQ5Kti"
+                    },
+                    {
+                        "name": "Proakis - DSP Principles Algorithms Applications ",
+                        "url": "https://drive.google.com/open?id=1rbNUlFdYncc1FZZRoL9KOFZ3Rs0S1eYe"
+                    }
+                ]
+            },
+            {
+                "code": "AS 205",
+                "name": "Discrete Mathematics",
+                "ece": true,
+                "cse": true,
+                "icon": "dm2",
+                "exam_papers": [
+                    {
+                        "name": "Class Test 18",
+                        "url": "https://drive.google.com/open?id=1iWcX5AeaFpFYMZoQhHiD_XC7el7xiSnA"
+                    },
+                    {
+                        "name": "MidSem 18",
+                        "url": "https://drive.google.com/open?id=1YEmV8EBn_M9o-4QgO9iNATcvxILv4bW-"
+                    },
+                    {
+                        "name": "EndSem 18",
+                        "url": "https://drive.google.com/open?id=1-wMWpH0yDPJ9dEu5hbpjFHtWhsLG7GEv"
+                    }
+                ],
+                "class_materials": [],
+                "books": [
+                    {
+                        "name": "Graphtheory - N Deo",
+                        "url": "https://drive.google.com/open?id=15rMtd78PCFvVyDrqv1cDKk5-mECEyxjl"
+                    }
+                ]
+            },
+            {
+                "code": "EC 204",
+                "name": "Digital Logic Design",
+                "ece": true,
+                "cse": true,
+                "icon": "dld2",
+                "exam_papers": [
+                    {
+                        "name": "MidSem 18",
+                        "url": "https://drive.google.com/open?id=1NVdKKQdZvZ5U_oRhNzNeAcoc-n8pmnZr"
+                    },
+                    {
+                        "name": "EndSem 18",
+                        "url": "https://drive.google.com/open?id=1Iv0uSpXmrP6SvekWZKVLGC6-_UPMJnQF"
+                    }
+                ],
+                "class_materials": [
+                    {
+                        "name": "Lecture ZMP",
+                        "url": "https://drive.google.com/open?id=1OulX2EhIBkTLkGLrpoLQbFVod43ssP2u"
+                    },
+                    {
+                        "name": "Synchronous Sequential Logic",
+                        "url": "https://drive.google.com/open?id=1svOg1Hy0yrrwgnw6pLL51t91xUyWcnu3"
+                    }
+                ],
+                "books": [
+                    {
+                        "name": "Digital Circuit - Anand Kumar",
+                        "url": "https://drive.google.com/open?id=1tyaFFHvm0tZD87IffR_9IOwErNMSENqI"
+                    },
+                    {
+                        "name": "Morris Mano",
+                        "url": "https://drive.google.com/open?id=1tyaFFHvm0tZD87IffR_9IOwErNMSENqI"
+                    }
+                ]
+            },
+            {
+                "code": "AE 203",
+                "name": "Engineering Mechanics",
+                "ece": true,
+                "cse": true,
+                "icon": "em2",
+                "exam_papers": [
+                    {
+                        "name": "Class Test 18",
+                        "url": "https://drive.google.com/open?id=1r6LXhiwdV2zzNXaQEJ-hhJf71sSNGALS"
+                    },
+                    {
+                        "name": "MidSem 18",
+                        "url": "https://drive.google.com/open?id=1Oc4ZsfP65FCO9__vI1Jw-6NDMWRaQJXD"
+                    },
+                    {
+                        "name": "EndSem 18",
+                        "url": "https://drive.google.com/open?id=1RGwZP3I9cI2hWJhtxt6bYCXm9GjLdhYh"
+                    }
+                ],
+                "class_materials": [
+                    {
+                        "name": "ME101-Lecture12-KD",
+                        "url": "https://drive.google.com/open?id=1ABf0VY3XxITt3sv1bXpduY74HrIBRltT"
+                    },
+                    {
+                        "name": "Mechanical Vibrations Book",
+                        "url": "https://drive.google.com/open?id=1XZ0HnyUkiA3WJOVFXOP8t7sz8J45Ve0k"
+                    },
+                    {
+                        "name": "Mechanical Vibrations",
+                        "url": "https://drive.google.com/open?id=1sJbeLyVoewmcsf95O3dKmHKEOksYoczp"
+                    }
+                ],
+                "books": [
+                    {
+                        "name": "Dynamic by HC HIBBELER",
+                        "url": "https://drive.google.com/open?id=1XfUUbDG6WtG5DffrL5BdYqZOHSdbujBH"
+                    },
+                    {
+                        "name": "Statics by HC HIBBLER",
+                        "url": "https://drive.google.com/open?id=1dPxxZ8G98nsUxeS7HEsTM1dFJD74-RJg"
+                    },
+                    {
+                        "name": "Engineering Mechanics - RS Khurmi",
+                        "url": "https://drive.google.com/open?id=17mDR3Ad3uqBckAYl9wIIY66x2LyHJawR"
+                    },
+                    {
+                        "name": "Vector Mechanics for Engineers Statics and Dynamics - Beer",
+                        "url": "https://drive.google.com/open?id=1HxZLRp2jceEOr0lBFxdfGy46VsgyT8R0"
+                    }
+                ]
+            },
+            {
+                "code": "EC 202",
+                "name": "Electronic Devices and Circuits",
+                "cse": true,
+                "ece": true,
+                "icon": "edc2",
+                "exam_papers": [
+                    {
+                        "name": "MidSem 18",
+                        "url": "https://drive.google.com/open?id=1qOjxfuSKmM2OPa1Xcpnpftq5uURvz3iQ"
+                    },
+                    {
+                        "name": "EndSem 18",
+                        "url": "https://drive.google.com/open?id=1fSjofiOjnW-E2hM1s68LLgKHalF2UtvI"
+                    },
+                    {
+                        "name": "MidSem 17",
+                        "url": "https://drive.google.com/open?id=1GmEulq5KkJsB9zvrXzjSMf84NCHHqCFB"
+                    },
+                    {
+                        "name": "EndSem 17",
+                        "url": "https://drive.google.com/open?id=1qIzZjhOOcis2KtttGyzT6VawkkECS2f9"
+                    }
+                ],
+                "class_materials": [
+                    {
+                        "name": "BJT Notes",
+                        "url": "https://drive.google.com/open?id=13oN1PnrLvJj8yeyLfu-CpBBW2CIfn31w"
+                    },
+                    {
+                        "name": "Clipper and Clamper",
+                        "url": "https://drive.google.com/open?id=1dGxe_Oz-FFKI-Tpo8k519UVrVW-m3HIA"
+                    },
+                    {
+                        "name": "Diodes",
+                        "url": "https://drive.google.com/open?id=1Ycc8angcj8pk0g5BKxd79jd5IIIOXqeW"
+                    },
+                    {
+                        "name": "Field Effect Transistors",
+                        "url": "https://drive.google.com/open?id=1J9tOa4QYU1YS1Lc1Ys9zicwZMEtOrszy"
+                    },
+                    {
+                        "name": "LCD Varactor",
+                        "url": "https://drive.google.com/open?id=1FwZFLFa0XW01fG1gt_qH4yvGntX0jxW7"
+                    },
+                    {
+                        "name": "LED and Photo Diode",
+                        "url": "https://drive.google.com/open?id=1ZnvNZIXHrVHmjrzYasIRCt94FBWHKZr7"
+                    },
+                    {
+                        "name": "LED, 7 Segment LED, Multicolour LED and LCD",
+                        "url": "https://drive.google.com/open?id=179_yQjbaBtoHZ2XVaJ3ArolfF1zaP4q_"
+                    },
+                    {
+                        "name": "Measuring Instruments - PNP",
+                        "url": "https://drive.google.com/open?id=1UUizv8mXqEGpLRnz2it16DoBsBwvzEQ2"
+                    },
+                    {
+                        "name": "Measuring Instruments",
+                        "url": "https://drive.google.com/open?id=1mO02-cdskeOmiBWN3TqfDWCava8C-gE-"
+                    },
+                    {
+                        "name": "OpAmp",
+                        "url": "https://drive.google.com/open?id=1p20nA_AfShK_NxX9yQDLnvJAnY_T6kNA"
+                    },
+                    {
+                        "name": "Photodiode",
+                        "url": "https://drive.google.com/open?id=1AJ5-sl9T5P0I4NWocKohNh11PEGd_XMm"
+                    },
+                    {
+                        "name": "Schottky and Shockley Diode",
+                        "url": "https://drive.google.com/open?id=1iZLRovmsh5XnUJZo1RVFdn54jdWIeAMb"
+                    },
+                    {
+                        "name": "Shockley Pin Diode",
+                        "url": "https://drive.google.com/open?id=1Cegf13DR-ZKPWPaVQ63RKbec_OWsf4_2"
+                    },
+                    {
+                        "name": "Special Purpose Diodes Notes",
+                        "url": "https://drive.google.com/open?id=1G3nobEyalk55Yd5mD24Q0DitAzKjU07H"
+                    },
+                    {
+                        "name": "Varactor Diode",
+                        "url": "https://drive.google.com/open?id=16DWOwyj9nZc8F2D44Puw2xDLMpnxfB3-"
+                    },
+                    {
+                        "name": "BJT Structure & Operation",
+                        "url": "https://drive.google.com/open?id=1z1sbFtLPkWHpMdZgk6RdriYm5BawawWZ"
+                    },
+                    {
+                        "name": "BJT Characteristics and other topics",
+                        "url": "https://drive.google.com/open?id=1yoGC7rX-DuX1yfOCLm29Hq9TzKRc4sYe"
+                    },
+                    {
+                        "name": "BJT circuits at DC Notes",
+                        "url": "https://drive.google.com/open?id=1QRnBdijkf1ZwQqMr29ORvJu7xs2iLWgR"
+                    },
+                    {
+                        "name": "Transistor Amplifier",
+                        "url": "https://drive.google.com/open?id=1cGAugiZ8wVRIMShjG1b5AWbozjTSPbG5"
+                    },
+                    {
+                        "name": "EC 202 Electronic Devices and Circuits NPTEL video",
+                        "url": "https://drive.google.com/open?id=1MVjJdT82Fk53REBISWcn7H5ZH3WEAqpz"
+                    }
+                ],
+                "books": [
+                    {
+                        "name": "Anand Kumar - Clippers",
+                        "url": "https://drive.google.com/open?id=1UewjUDn8kUBE_wwTOZPc12r2HCMh1T94"
+                    },
+                    {
+                        "name": "Electronic Devices and Circuit Theory - Boylestad",
+                        "url": "https://drive.google.com/open?id=1b0MeLhDHV0zC5SC4fap_8QT8ZabRrOzc"
+                    },
+                    {
+                        "name": "Fundamentals of Electric Circuits",
+                        "url": "https://drive.google.com/open?id=19KHw7ju2FkAlxRolaus5dgRLBnwld71C"
+                    },
+                    {
+                        "name": "Measuring Instruments",
+                        "url": "https://drive.google.com/open?id=1yLMBbRszowI0_a2VNlFGDjiw5AOi1vLI"
+                    },
+                    {
+                        "name": "V.K. Mehta",
+                        "url": "https://drive.google.com/open?id=1kFs-2eKTIJjK4lGfuRmQzYjE32cCMKdS"
+                    }
+                ]
+            },
+            {
+                "code": "CS 201",
+                "name": "Data Structures and Algorithm",
+                "ece": true,
+                "cse": true,
+                "icon": "dsa2",
+                "exam_papers": [
+                    {
+                        "name": "MidSem 18",
+                        "url": "https://drive.google.com/open?id=1IWO4YSRnfKmF3v3XjXG_ivnvYF7Fkt-3"
+                    },
+                    {
+                        "name": "EndSem 18",
+                        "url": "https://drive.google.com/open?id=17zNe7vyIwZE1zQPAagrTYErtehpt0w6c"
+                    }
+                ],
+                "class_materials": [
+                    {
+                        "name": "Queue and its Applications",
+                        "url": "https://drive.google.com/open?id=1mkNUODE3qlQlocyvrWm-Z41dQzu3FcOE"
+                    },
+                    {
+                        "name": "Algorithm Analysis",
+                        "url": "https://drive.google.com/open?id=1v0V77G6_wdXdJnc3O9dX5OM3Yy8mTyYn"
+                    },
+                    {
+                        "name": "Graph",
+                        "url": "https://drive.google.com/open?id=1x1l9JyHjGuIM3OBbyMQJmOBfFCxEANsZ"
+                    },
+                    {
+                        "name": "Graph [BFS]",
+                        "url": "https://drive.google.com/open?id=1cfDcWBZXNXOHe5DFWAo7bvR7QhT-CA2P"
+                    },
+                    {
+                        "name": "Graph [DFS]",
+                        "url": "https://drive.google.com/open?id=1jvxktlKM1dvKsfHiBxVmTzQcNzRHB12m"
+                    },
+                    {
+                        "name": "Intro to DS for MidSem",
+                        "url": "https://drive.google.com/open?id=11eW9H-ZKPvNHakBa2OHklikj9NlH8WjR"
+                    },
+                    {
+                        "name": "Intro Data Structure",
+                        "url": "https://drive.google.com/open?id=1IW9WF7weVBo-jP_VaH9HRsQw_vsrs42J"
+                    },
+                    {
+                        "name": "Stack",
+                        "url": "https://drive.google.com/open?id=1_RSiWHyC7hFZwzvxdSzyJRRpN_ryCu44"
+                    },
+                    {
+                        "name": "Stack Application - Recursion",
+                        "url": "https://drive.google.com/open?id=1n9X2kWqkn5gxAEPPNoe3heTzxq1s5XMq"
+                    },
+                    {
+                        "name": "Stack-Applications-Arithmetic Expressions",
+                        "url": "https://drive.google.com/open?id=191xyY4FMBXuHHUVpBkE6RvpEG_P4U8Ys"
+                    },
+                    {
+                        "name": "Link List",
+                        "url": "https://drive.google.com/open?id=1LASO_xJPelGO1f8Up2qs3pOy6RVSSYnm"
+                    },
+                    {
+                        "name": "Trees new",
+                        "url": "https://drive.google.com/open?id=1l_k0pRV6hxKkqPJbGqqkOynJabnN61Yk"
+                    },
+                    {
+                        "name": "AVL Trees",
+                        "url": "https://drive.google.com/open?id=1i5C3wrCGdwG_DjGrjwwQYQs4iGHFw4Ll"
+                    },
+                    {
+                        "name": "B Trees",
+                        "url": "https://drive.google.com/open?id=1MFvpAEk2lbvp0-KAu7HXxJRtL8J3WMU5"
+                    },
+                    {
+                        "name": "Sorting and Searching",
+                        "url": "https://drive.google.com/open?id=1D5tWfE0T_JZzn2K3eqwsg67KhpiBpYXP"
+                    },
+                    {
+                        "name": "Hashing",
+                        "url": "https://drive.google.com/open?id=1M92RdzbqyjGs7OcKNzBbSvTzjG9OrMz1"
+                    }
+                ],
+                "books": []
+            }
+        ],
+        "3": [
+            {
+                "code": "CS 301",
+                "name": "Computer Architecture & Organization",
+                "icon": "co3",
+                "cse": true,
+                "ece": true,
+                "exam_papers": [
+                    {
+                        "name": "MidSem 18",
+                        "url": "https://drive.google.com/open?id=1vm-Wdna5JWWHlgQglWaUhTCisNvyx878"
+                    },
+                    {
+                        "name": "EndSem 18",
+                        "url": "https://drive.google.com/open?id=1UR-C6L7yjbpIhp0OBPoeSJ4JBf2m4-g8"
+                    },
+                    {
+                        "name": "EndSem Supplementary 18",
+                        "url": "https://drive.google.com/open?id=1MAc7Za4j58510PfbJWbrYs2ttAPf7_rI"
+                    },
+                    {
+                        "name": "MidSem 19",
+                        "url": "https://drive.google.com/open?id=1U4ScqRfXQL0VnMsbvJ9tv8bP9lM8Zjj2"
+                    },
+                    {
+                        "name": "EndSem 19",
+                        "url": "https://drive.google.com/open?id=1t3DrjOLJPtY-JC7jT2BgVxYr8KF8vu9K"
+                    }
+                ],
+                "books": [
+                    {
+                        "name": "Morris Mano - Computer System Architecture",
+                        "url": "https://drive.google.com/open?id=1nC6RPZ-kNVWBBjTtYpXurPUwbQFp6gjv"
+                    },
+                    {
+                        "name": "Patterson - Computer Organization and Design",
+                        "url": "https://drive.google.com/open?id=15s7rX64gXk8s91XoiVHxzZhocdGoozS7"
+                    },
+                    {
+                        "name": "William Stallings - Computer Organization and Architecture Designing for Performance",
+                        "url": "https://drive.google.com/open?id=1KD0Fck3MMgdAdSYumaywFa4pwqY1DCS2"
+                    },
+                    {
+                        "name": "William Stallings - Solutions",
+                        "url": "https://drive.google.com/open?id=1W6ws55-s380yUSsiN_5fUKuzYTCio97e"
+                    }
+                ],
+                "class_materials": [
+                    {
+                        "name": "ASCI",
+                        "url": "https://drive.google.com/open?id=1tDSxZJ0tsFp7jEmn-J2ICvNm8UdlUfhA"
+                    },
+                    {
+                        "name": "CO Intro",
+                        "url": "https://drive.google.com/open?id=1QSxqTu-LpA45dI_vjXfqiOJ78sLeJp4b"
+                    },
+                    {
+                        "name": "ISA",
+                        "url": "https://drive.google.com/open?id=1QywszMBgBVu3Z5yrqJMw7YXjNoiCJWt1"
+                    },
+                    {
+                        "name": "MicroArch",
+                        "url": "https://drive.google.com/open?id=1CXE-7xPoiGCpHCxvp6SIaWQbA2eaNvOC"
+                    },
+                    {
+                        "name": "Computer Organization Basic",
+                        "url": "https://drive.google.com/open?id=1D2P4c0RToZ21jwoG79q8vxf6v2BRwO10"
+                    },
+                    {
+                        "name": "Cache Memory",
+                        "url": "https://drive.google.com/open?id=1oVfdt8LJf4UxpkezImPioVUHwTeT0jD_"
+                    },
+                    {
+                        "name": "Internal Memory",
+                        "url": "https://drive.google.com/open?id=1cU2f_UEaVczdOQcGW5qfbJ1VJnn1i6qH"
+                    },
+                    {
+                        "name": "External Memory",
+                        "url": "https://drive.google.com/open?id=1y7byFBnrhCC-Y7onhpGOyUpbq4OFSboi"
+                    },
+                    {
+                        "name": "Virtual Memory",
+                        "url": "https://drive.google.com/open?id=1ri0e6h0C_5WgSB04lGBD3hxcJ4NsgwQ_"
+                    },
+                    {
+                        "name": "Input Output",
+                        "url": "https://drive.google.com/open?id=17MqElwZ3aArDo5D7HabYzokdq-wK6d79"
+                    },
+                    {
+                        "name": "MicroArch SingleCycle Processor",
+                        "url": "https://drive.google.com/open?id=1dtWymgbvoBs7qWnS4pC9R1iS2BVkafEl"
+                    },
+                    {
+                        "name": "MicroArch MultiCycle Processor",
+                        "url": "https://drive.google.com/open?id=1fYvNVUvEJFfbn-ITOwqjIBMrMBoJicZF"
+                    },
+                    {
+                        "name": "Performance",
+                        "url": "https://drive.google.com/open?id=1DSxgoF-iFztIx8yhzF7yiXHrC5TMLY3M"
+                    },
+                    {
+                        "name": "Pipelining, Control Unit And Hazards",
+                        "url": "https://drive.google.com/open?id=1KyXvAqcw1mss2RFtiHDlbgA5WBzmP6xo"
+                    }
+                ]
+            },
+            {
+                "code": "EC 302",
+                "name": "Microprocessor and Interfacing",
+                "icon": "mpi3",
+                "cse": true,
+                "ece": true,
+                "exam_papers": [
+                    {
+                        "name": "MidSem 18",
+                        "url": "https://drive.google.com/open?id=1ErlRRAO3XN72dVg4aYBQqaHU8xWCFgAZ"
+                    },
+                    {
+                        "name": "EndSem 18",
+                        "url": "https://drive.google.com/open?id=1fQZ7UQAP7aJ5bQcU5yWxBCXkmDgMYoqC"
+                    },
+                    {
+                        "name": "EndSem Supplementary 18",
+                        "url": "https://drive.google.com/open?id=18ycKq9KwGs-MviiTMCTmF2t4a6xsqyX7"
+                    },
+                    {
+                        "name": "MidSem 19",
+                        "url": "https://drive.google.com/open?id=1-SakZx-Go_RkvF4bVT03J9roMjUoMm9m"
+                    }
+                ],
+                "books": [
+                    {
+                        "name": "8086 Instruction Set",
+                        "url": "https://drive.google.com/open?id=1kCDH2TdfMnRNpubL_n8oCwjH1EYMVZUL"
+                    }
+                ],
+                "class_materials": [
+                    {
+                        "name": "8086 Microprocessor",
+                        "url": "https://drive.google.com/open?id=17YfWbvyZXXvkRjMAVxSVNqWWSxmblHhS"
+                    },
+                    {
+                        "name": "8086 and Chips",
+                        "url": "https://drive.google.com/open?id=134J7cpEQ7CmCW3Rdi3-ovNdZUdfRd9FX"
+                    },
+                    {
+                        "name": "8086 Programs",
+                        "url": "https://drive.google.com/open?id=1sex3F7TVGP-4rCceSXu2HuRmBMwsnszt"
+                    },
+                    {
+                        "name": "DOS Interrupts i8086",
+                        "url": "https://drive.google.com/open?id=1i9D5i1Q9bh0xaKXjwURU6jETRArKVVWZ"
+                    },
+                    {
+                        "name": "TASM tuto1",
+                        "url": "https://drive.google.com/open?id=1XJqa-JvkFtclcW_x58sDljlwhTT1sTKH"
+                    },
+                    {
+                        "name": "TASM tuto2",
+                        "url": "https://drive.google.com/open?id=1j_7fP04wEW5eqYdeIP4GoOGBs0enYy6w"
+                    },
+                    {
+                        "name": "TASM tuto3",
+                        "url": "https://drive.google.com/open?id=1DvnuHDMqkOSaipshrL0wV20YOX8m63dH"
+                    },
+                    {
+                        "name": "8085 Microprocessor by Gaonkar",
+                        "url": "https://drive.google.com/open?id=1xLG8lsSAcoYDqEWH20-GedUyDlXHXQR3"
+                    },
+                    {
+                        "name": "Microprocessor and Interfacing",
+                        "url": "https://drive.google.com/open?id=1DlLQSs4egmh-ZJjn0ATAxnAnuq49UJuA"
+                    }
+                ]
+            },
+            {
+                "code": "EC 303",
+                "name": "Communication Engineering",
+                "icon": "ce3",
+                "cse": true,
+                "ece": true,
+                "exam_papers": [
+                    {
+                        "name": "MidSem 18",
+                        "url": "https://drive.google.com/open?id=1SgsP8plCgUTp3oQxmegzd54imEEX_gOY"
+                    },
+                    {
+                        "name": "EndSem 18",
+                        "url": "https://drive.google.com/open?id=1-iEUFja-e4Ht-rV1cOqjOGp10LqryRfw"
+                    },
+                    {
+                        "name": "EndSem Supplementary 18",
+                        "url": "https://drive.google.com/open?id=1EDzctYuppqqs2cqTrUtMvPAbmPviNLis"
+                    },
+                    {
+                        "name": "MidSem 19",
+                        "url": "https://drive.google.com/open?id=1x_l62J0T-1O0YdI0ZDZ5cPlEDHLpUkXO"
+                    },
+                    {
+                        "name": "EndSem 19",
+                        "url": "https://drive.google.com/open?id=1aRLQHHYbaqI_gEgKXWWHORmfgCdGrKDD"
+                    }
+                ],
+                "books": [
+                    {
+                        "name": "BP Lathi",
+                        "url": "https://drive.google.com/open?id=1RaKFHkeNauks_eIyqrY1HP3BIvmwQm3o"
+                    },
+                    {
+                        "name": "BP Lathi Solutions",
+                        "url": "https://drive.google.com/open?id=16riCMkmwOYcvE4PY8DN07ZdPTgjVxLSL"
+                    },
+                    {
+                        "name": "Dennis Roddy - Electronic Communications",
+                        "url": "https://drive.google.com/open?id=1j7A_4gbprcQqP39NZYtpNnj1nX99T_f1"
+                    },
+                    {
+                        "name": "Proakis",
+                        "url": "https://drive.google.com/open?id=1GpDzIl3yoDkkxkcz2ZWzYqsGjM5V-T7U"
+                    },
+                    {
+                        "name": "Sanjay Sharma - AM",
+                        "url": "https://drive.google.com/open?id=1o-VQMfVP5fHqXtlPYQ8Yv7YqV0PS61fV"
+                    },
+                    {
+                        "name": "Sanjay Sharma - Noise",
+                        "url": "https://drive.google.com/open?id=15BZ-2aNkG_vvl2gEfcn5nxfd9q0cRyTj"
+                    }
+                ],
+                "class_materials": []
+            },
+            {
+                "code": "CS 304",
+                "name": "Automata Formal Languages",
+                "icon": "afl3",
+                "cse": true,
+                "ece": false,
+                "exam_papers": [
+                    {
+                        "name": "MidSem 18",
+                        "url": "https://drive.google.com/open?id=14fCK2MQWNgf3AHERICnOLDHgmHGNgtBc"
+                    },
+                    {
+                        "name": "EndSem 18",
+                        "url": "https://drive.google.com/open?id=1XMxUWSelYm1LPZWnYTuCj-D4Yh9sOZF7"
+                    },
+                    {
+                        "name": "EndSem 19",
+                        "url": "https://drive.google.com/open?id=1-n5CsfL5oV8ibgWBVQ1YgatqwHHuT-dw"
+                    }
+                ],
+                "books": [
+                    {
+                        "name": "Automata Theory - Tutorials Point",
+                        "url": "https://drive.google.com/open?id=136-JSF-zayj7bR6xaIbed5F549Txmtvv"
+                    },
+                    {
+                        "name": "Automata Theory, Languages and Computation",
+                        "url": "https://drive.google.com/open?id=1Poruin_0jA_axTqx8zjY6V5hnOzJCCVi"
+                    },
+                    {
+                        "name": "Formal Languages and Automata Theory",
+                        "url": "https://drive.google.com/open?id=1rHvbFhwdX7HC0fAIAeNtyb4E-EzgkauM"
+                    }
+                ],
+                "class_materials": [
+                    {
+                        "name": "Basic",
+                        "url": "https://drive.google.com/open?id=1LK0FeXTj0hZBwuU_GRudmJOqvRJJdbsz"
+                    },
+                    {
+                        "name": "CFG Simplification",
+                        "url": "https://drive.google.com/open?id=1IgxFHEENY0AXQ82r16_ev2TgpJJjOgPj"
+                    },
+                    {
+                        "name": "Introduction DFA NFA",
+                        "url": "https://drive.google.com/open?id=1tuoul00YSKtPCjrdD5AvHFKsTUsT9we_"
+                    }
+                ]
+            },
+            {
+                "code": "EC 304",
+                "name": "Electronic Circuits",
+                "icon": "ec3",
+                "cse": false,
+                "ece": true,
+                "exam_papers": [
+                    {
+                        "name": "MidSem 18",
+                        "url": "https://drive.google.com/open?id=1W2g4XfbOVRuF7ewyPL2mjo7Cx4P38mZs"
+                    },
+                    {
+                        "name": "EndSem 18",
+                        "url": "https://drive.google.com/open?id=1mami7Qt2BTOkYHi38sM9Tp_f3sD774IW"
+                    },
+                    {
+                        "name": "EndSem Supplementary 18",
+                        "url": "https://drive.google.com/open?id=1L-uGYfON076-dvQkthEhBAOU_Y02jioH"
+                    },
+                    {
+                        "name": "MidSem 19",
+                        "url": "https://drive.google.com/open?id=1ZNmZIyesfdkAVu05yeQKcS2D2Awku2tA"
+                    }
+                ],
+                "books": [
+                    {
+                        "name": "Electronic Devices and Circuit Theory - Boylestad",
+                        "url": "https://drive.google.com/open?id=1ivv1hkKHfqXa8S05-1z96rsrr3Hyynv3"
+                    }
+                ],
+                "class_materials": [
+                    {
+                        "name": "EC 1",
+                        "url": "https://drive.google.com/open?id=1M2ETylH9tSA4DjWM3rh3p2olRtgZmk0J"
+                    },
+                    {
+                        "name": "EC 2",
+                        "url": "https://drive.google.com/open?id=1l0F1HSaiEkvOp0j0S-aq81OIO5rhfsLR"
+                    },
+                    {
+                        "name": "Before MidSem Notes",
+                        "url": "https://drive.google.com/open?id=18aIlO02ygUvoKrX5ND2qhXyEV-fToad5"
+                    },
+                    {
+                        "name": "After MidSem Notes",
+                        "url": "https://drive.google.com/open?id=1sS8kEUqWmwz6pstQJMJMDjLXZSFHThVv"
+                    }
+                ]
+            },
+            {
+                "code": "AS 305",
+                "name": "Probability and Statistical Analysis",
+                "icon": "psa3",
+                "cse": true,
+                "ece": true,
+                "exam_papers": [
+                    {
+                        "name": "MidSem 18",
+                        "url": "https://drive.google.com/open?id=1gprGZjIOn6wukuaYtW2PoLCz4LgIfyOP"
+                    },
+                    {
+                        "name": "EndSem 18",
+                        "url": "https://drive.google.com/open?id=1B0FP1LqyIKJJW-0R7XZ_w-2mm31tbe-7"
+                    },
+                    {
+                        "name": "MidSem 19",
+                        "url": "https://drive.google.com/open?id=1fwDFRID-vZBRV6tWJzytHcMPeKch0g8e"
+                    },
+                    {
+                        "name": "EndSem 19",
+                        "url": "https://drive.google.com/open?id=1N1n-JUpIgqY_N-gmsT8MTOy85aSMyB-h"
+                    }
+                ],
+                "books": [
+                    {
+                        "name": "Sanjay Probabilty",
+                        "url": "https://drive.google.com/open?id=1YhCXPWk7RH0l1iCNqqOiiHiXqkxR87Du"
+                    }
+                ],
+                "class_materials": [
+                    {
+                        "name": "Probability",
+                        "url": "https://drive.google.com/open?id=1MgnLU-1fImVKrqxxMSAko7cNg_fc6Oiq"
+                    },
+                    {
+                        "name": "Statistics",
+                        "url": "https://drive.google.com/open?id=1OnfJIswhexe3-yAleamRLtJW6wcotJaM"
+                    }
+                ]
+            }
+        ],
+        "4": [
+            {
+                "code": "CS 401",
+                "name": "Operating Systems",
+                "icon": "os4",
+                "cse": true,
+                "ece": true,
+                "exam_papers": [
+                    {
+                        "name": "MidSem 19",
+                        "url": "https://drive.google.com/open?id=1s89Kr8-rauwYQDW3wBB-csJ3y3BPSFN5"
+                    },
+                    {
+                        "name": "EndSem 19",
+                        "url": "https://drive.google.com/open?id=1Iqp6AioziM3BkMIzA376Wh8FXfUwTXHy"
+                    },
+                    {
+                        "name": "MidSem 20",
+                        "url": "https://drive.google.com/open?id=1M9W_jglxRsPmKBK1TY3J5Jl_t_BIGkuf"
+                    }
+                ],
+                "books": [
+                    {
+                        "name": "Operating System - William Stallings",
+                        "url": "https://drive.google.com/open?id=1x3cv4Axf2Q8KcB5uRebhjaJL8CfXR2aT"
+                    },
+                    {
+                        "name": "William Stallings Solution",
+                        "url": "https://drive.google.com/open?id=1N57tBsk-oA5p7ErUc2m6YFJ7BTf0UmYQ"
+                    }
+                ],
+                "class_materials": [
+                    {
+                        "name": "Virtual Memory",
+                        "url": "https://drive.google.com/open?id=1o3tkD-KjvFZgpVHQyC_JGhyBpwz13i5L"
+                    },
+                    {
+                        "name": "Chapter 1",
+                        "url": "https://drive.google.com/open?id=1GVmO03N9xPmsEIZ44lLP_PoPYyEkmQTR"
+                    },
+                    {
+                        "name": "Chapter 2",
+                        "url": "https://drive.google.com/open?id=1VtmGbMIcI8E2i2wRmnKXE-ZKP2jbnw9T"
+                    },
+                    {
+                        "name": "Chapter 3",
+                        "url": "https://drive.google.com/open?id=1SAmDpUdTXtmHZaFhMKgf3hru7jArqHES"
+                    },
+                    {
+                        "name": "Chapter 4",
+                        "url": "https://drive.google.com/open?id=14JAJ0ihQTqlosRskq3_CGYRpgSEcyqNy"
+                    },
+                    {
+                        "name": "Chapter 5",
+                        "url": "https://drive.google.com/open?id=1yiKySxCZHPbDcLvc9oAyaVrxCRGxEExI"
+                    },
+                    {
+                        "name": "Chapter 6",
+                        "url": "https://drive.google.com/open?id=18nwkAajHXc26CMySJGRhFURDH6TQBSKE"
+                    },
+                    {
+                        "name": "Chapter 7",
+                        "url": "https://drive.google.com/open?id=1USXmjHQpwD-aTEsHGjrf6Z_8csgXakjn"
+                    },
+                    {
+                        "name": "Chapter 8",
+                        "url": "https://drive.google.com/open?id=1ZsKt3-w8u7-cz_cc2LfrLP4-cKbHUY5l"
+                    },
+                    {
+                        "name": "Chapter 9",
+                        "url": "https://drive.google.com/open?id=1sHDNa3GzwkFmsjmuqUXEwQKsEcrA_VOJ"
+                    },
+                    {
+                        "name": "OS EndSem Notes",
+                        "url": "https://drive.google.com/open?id=1iFnnnW-QUxdSEUiJDbl9FZmjAXa6eiCP"
+                    },
+                    {
+                        "name": "Synchronization mechanism software based solution case studies",
+                        "url": "https://drive.google.com/open?id=1URslYUeQKlBFFK_aJvT3tgr2jsRvgvSZ"
+                    }
+                ]
+            },
+            {
+                "code": "CS 402",
+                "name": "Computer Networks",
+                "icon": "cn4",
+                "cse": true,
+                "ece": true,
+                "exam_papers": [
+                    {
+                        "name": "MidSem 19",
+                        "url": "https://drive.google.com/open?id=1TtWHIbvPadx_FBZkKZesNK0KfpMaeFh1"
+                    },
+                    {
+                        "name": "MidSem 20",
+                        "url": "https://drive.google.com/open?id=1G_LVKsX0CdTYMi_YZ55Q7tiKp82dAmFT"
+                    }
+                ],
+                "books": [
+                    {
+                        "name": "Forouzan - Data Communication and Networking",
+                        "url": "https://drive.google.com/open?id=1UBA2D22PswgRah0sksP_H6kC-Uj1Fnp5"
+                    },
+                    {
+                        "name": "Tanenbaum - Computer Networks",
+                        "url": "https://drive.google.com/open?id=1Ow6tapniqHV3DgZ8QgKnQbpb-zlbcacB"
+                    }
+                ],
+                "class_materials": [
+                    {
+                        "name": "Introduction",
+                        "url": "https://drive.google.com/open?id=1H88rE3_RZyVfTBlME1pwP77zNhUSnfpO"
+                    },
+                    {
+                        "name": "Network Models",
+                        "url": "https://drive.google.com/open?id=1ZqH1HZk1T0Eeet5ioTolI4zGLPt8QXME"
+                    },
+                    {
+                        "name": "Error Detection and Correction",
+                        "url": "https://drive.google.com/open?id=1U_o-oSedmfeSzALJqFD17Wgakp9mdExL"
+                    },
+                    {
+                        "name": "Data Link Control",
+                        "url": "https://drive.google.com/open?id=1FYahy9iDGtToPDpbmDMmIwuJqYWDr2zF"
+                    },
+                    {
+                        "name": "Data Link Protocols",
+                        "url": "https://drive.google.com/open?id=1sNsm4UyHZqFVG4oEfw8aWJM-na25N_fJ"
+                    },
+                    {
+                        "name": "Multiplexing",
+                        "url": "https://drive.google.com/open?id=1OwMnRk74T5D9AuH6sDs_gD4RCccbLxRS"
+                    },
+                    {
+                        "name": "ARP and RARP",
+                        "url": "https://drive.google.com/open?id=1EJlb1Vlg-9G3J9zH_H-rKn_ybzWHJ2Ah"
+                    },
+                    {
+                        "name": "ATM",
+                        "url": "https://drive.google.com/open?id=1Vch9gey_b5lyPfCgoCUxdsz_If6llXUw"
+                    },
+                    {
+                        "name": "ICMP",
+                        "url": "https://drive.google.com/open?id=1t9FH-1rlRHeoAuIOiVUxB7R8H82P-lxg"
+                    },
+                    {
+                        "name": "Logical Addressing",
+                        "url": "https://drive.google.com/open?id=1Lpl7RZRDfNMiCgDH12_foqq-FEz8N9aO"
+                    },
+                    {
+                        "name": "Network Layer",
+                        "url": "https://drive.google.com/open?id=1sYtwZ2wjNfwy6u028mSc6wmN1tyA4_d_"
+                    },
+                    {
+                        "name": "Switching",
+                        "url": "https://drive.google.com/open?id=1or_t9LuNGNkKCiO26VsaDBP8gWYySjkL"
+                    },
+                    {
+                        "name": "Transition From IPv4 To IPv6",
+                        "url": "https://drive.google.com/open?id=1CaerM5NW8u2Azx8rvAL3GIEyfTKFNEHK"
+                    },
+                    {
+                        "name": "Transmission Media",
+                        "url": "https://drive.google.com/open?id=1nM6EhKW87ROxm2oyHU-QRmJV6W23jlDD"
+                    },
+                    {
+                        "name": "Transport-Layer",
+                        "url": "https://drive.google.com/open?id=1tWy7Xvufox24sDCYtnnZBbVMuFtf4hZD"
+                    },
+                    {
+                        "name": "TransportL_services_TCP",
+                        "url": "https://drive.google.com/open?id=1TWyZooqUbbGRViNMElT_EwJVOii0QvN5"
+                    },
+                    {
+                        "name": "Analog Transmission",
+                        "url": "https://drive.google.com/open?id=19s9ER75RJimxdFFNGLWnXvVZMxQOiJJT"
+                    },
+                    {
+                        "name": "Physical Layer-Media ",
+                        "url": "https://drive.google.com/open?id=167YCj-V-HJs0sWinWCauWIObClHSnTD8"
+                    },
+                    {
+                        "name": "Unit 2 Unguided Media",
+                        "url": "https://drive.google.com/open?id=1AabzJ-XlFo605VgHW5kWJmhLUCudU5MK"
+                    }
+                ]
+            },
+            {
+                "code": "CS 403",
+                "name": "Database Management System",
+                "icon": "dbms4",
+                "cse": true,
+                "ece": false,
+                "exam_papers": [
+                    {
+                        "name": "MidSem 19",
+                        "url": "https://drive.google.com/open?id=1BV6F8jTwgxN0tPJ9VO9esPN6lDYTQNNP"
+                    },
+                    {
+                        "name": "MidSem 20",
+                        "url": "https://drive.google.com/open?id=1TAJhAaRtqeiKss4zqOTK7QICheKQna_h"
+                    }
+                ],
+                "books": [
+                    {
+                        "name": "Database System Concepts 6th edition",
+                        "url": "https://drive.google.com/open?id=15SiK9iiVPG-qSso97gTumff1AXQVTPkr"
+                    }
+                ],
+                "class_materials": [
+                    {
+                        "name": "Introduction",
+                        "url": "https://drive.google.com/open?id=1JumikR1eG4myvLG8Cpm_OpEkSK5VGaTe"
+                    },
+                    {
+                        "name": "Concurrency Control",
+                        "url": "https://drive.google.com/open?id=1_Ub_qMem6ttmSvdAOqdYQDVay9lx5FGx"
+                    },
+                    {
+                        "name": "Constraints",
+                        "url": "https://drive.google.com/open?id=18yLiFk9IpwA0e1OUT8m0bmA6sQvnvBTq"
+                    },
+                    {
+                        "name": "Enhanced ER Model",
+                        "url": "https://drive.google.com/open?id=1mS2zOkenooOsFPv1H-JNqoAuhNatiUGx"
+                    },
+                    {
+                        "name": "Entity Relationship Model",
+                        "url": "https://drive.google.com/open?id=1nHDW2jRcZHBjC3li9iqQX0xxD4LaKM91"
+                    },
+                    {
+                        "name": "Functional Dependency Basics",
+                        "url": "https://drive.google.com/open?id=1L3cZO_mnkg9ph7CzAVzlJV3vG37wpqSz"
+                    },
+                    {
+                        "name": "Reduction of schema",
+                        "url": "https://drive.google.com/open?id=1AjruQmt7h_vcOLfn7ut3Ef6fAhiFJtBg"
+                    },
+                    {
+                        "name": "Relational Algebra",
+                        "url": "https://drive.google.com/open?id=1y5l8lknGjn5BR1sOd0ZdkjA2V088UU7k"
+                    },
+                    {
+                        "name": "SQL",
+                        "url": "https://drive.google.com/open?id=1EtoyOqSGhJNlcJFBSI4yom8Leyizko5h"
+                    },
+                    {
+                        "name": "Transaction Control",
+                        "url": "https://drive.google.com/open?id=18VUjRpBWEbzVAznlrNlKXf7wb4l1hit2"
+                    }
+                ]
+            },
+            {
+                "code": "CS 404",
+                "name": "Object Oriented Technology",
+                "icon": "oot4",
+                "cse": true,
+                "ece": false,
+                "exam_papers": [
+                    {
+                        "name": "MidSem 19",
+                        "url": "https://drive.google.com/open?id=1-DlIT_WEP09QomfR1-Xbhb828YcTipUe"
+                    },
+                    {
+                        "name": "MidSem 20",
+                        "url": "https://drive.google.com/open?id=1AxoNfhT3AhznaO_eA6RB5SNqNmXjT0dG"
+                    }
+                ],
+                "books": [
+                    {
+                        "name": "Unified Modeling Language",
+                        "url": "https://drive.google.com/open?id=1JZ8SgpenSbwdxTFnlv_SWB3Ma8hMvUaM"
+                    }
+                ],
+                "class_materials": [
+                    {
+                        "name": "Constructor destructor",
+                        "url": "https://drive.google.com/open?id=1SxioCVbVXfeMXJbzKsmAGncIz-4zuWhM"
+                    },
+                    {
+                        "name": "Exception Handling",
+                        "url": "https://drive.google.com/open?id=1pzU3urGz8RIUBL93-AmkUXcWYcO-lZh9"
+                    },
+                    {
+                        "name": "Inheritance and Polymorphism",
+                        "url": "https://drive.google.com/open?id=1Nj0GuunrwxGErBdwERBZrm1gJliy5vCl"
+                    },
+                    {
+                        "name": "OOP (Object Oriented Programming)",
+                        "url": "https://drive.google.com/open?id=1N1UKM7Ljy9NltjM0WLvrdF5htDqwgkkA"
+                    },
+                    {
+                        "name": "Overloading",
+                        "url": "https://drive.google.com/open?id=1hdwHRGRosiVUuCJLoM9gN3oU0FOC0ICR"
+                    },
+                    {
+                        "name": "SDLC",
+                        "url": "https://drive.google.com/open?id=18aYtlqvftfsKL_bruz0a7mrXdEEbbVPb"
+                    },
+                    {
+                        "name": "Reference Notes",
+                        "url": "https://drive.google.com/open?id=1QkuRd1aBAC2lDVByCyy7BJHiNICR8Sm4"
+                    },
+                    {
+                        "name": "Object Oriented Testing",
+                        "url": "https://drive.google.com/open?id=1D2fazo06jii17gndJSg66MHK-VF1itTG"
+                    }
+                ]
+            },
+            {
+                "code": "CS 405",
+                "name": "System Software",
+                "icon": "ss4",
+                "cse": true,
+                "ece": false,
+                "exam_papers": [
+                    {
+                        "name": "MidSem 19",
+                        "url": "https://drive.google.com/open?id=1FRhHi0elSayMuWZxTpwCkKKjph4k0BJm"
+                    },
+                    {
+                        "name": "MidSem 20",
+                        "url": "https://drive.google.com/open?id=18kzagPABaN4qG2-_M_uIUau0ke_XSm_F"
+                    }
+                ],
+                "books": [
+                    {
+                        "name": "Compilers, Principles, Techniques and Tools",
+                        "url": "https://drive.google.com/open?id=1ZbnQW6CUVjq7BJjfkaU2d4jt75kj9vEt"
+                    },
+                    {
+                        "name": "System Software An Introduction To Systems Programming",
+                        "url": "https://drive.google.com/open?id=14PQ9GcWPIWi91Q7TdNx0E_FlKIOPTyyL"
+                    }
+                ],
+                "class_materials": [
+                    {
+                        "name": "Introduction",
+                        "url": "https://drive.google.com/open?id=1mA1iOKuFF7gyaV7zucPu-CKWGdaqxKGs"
+                    },
+                    {
+                        "name": "Lexical Analysis Reference",
+                        "url": "https://drive.google.com/open?id=13wtZW55-yz_-HWPO1QtzclF9mIfKYbbF"
+                    },
+                    {
+                        "name": "Linkers",
+                        "url": "https://drive.google.com/open?id=1y0i32u4IWUZVaO5Uv53XLmOwZc86zzx4"
+                    },
+                    {
+                        "name": "Syntax Analysis Ref",
+                        "url": "https://drive.google.com/open?id=1fpHbt8RJ1B390FvlYqjG_fLASrq2uwCa"
+                    },
+                    {
+                        "name": "Macro",
+                        "url": "https://drive.google.com/open?id=1GVQQ28fLxo510c39bTtTALhXJVbZZ9Wp"
+                    }
+                ]
+            },
+            {
+                "code": "CS 406",
+                "name": "Design and Analysis of Algorithms",
+                "icon": "daa4",
+                "cse": true,
+                "ece": false,
+                "exam_papers": [
+                    {
+                        "name": "MidSem 19",
+                        "url": "https://drive.google.com/open?id=1SSw_CX60SW9wW5DgLOUhYC9wghRQ6xdm"
+                    },
+                    {
+                        "name": "MidSem 20",
+                        "url": "https://drive.google.com/open?id=14blepBeUZcOsAXppkB3v32eOkVbcz9va"
+                    }
+                ],
+                "books": [
+                    {
+                        "name": "Data Structures Algorithms and Applications in C - Sartraj Sahani",
+                        "url": "https://drive.google.com/open?id=1PvnYnzvAEHAVxCFsR-bTENEBZZ-H7GLs"
+                    },
+                    {
+                        "name": "Algorithm Design - John Kleinberg - Éva Tardos",
+                        "url": "https://drive.google.com/open?id=118IdjlJAI04dfA1rPbH1xDhwy9ZxBa40"
+                    },
+                    {
+                        "name": "Introduction to Algorithms",
+                        "url": "https://drive.google.com/open?id=1aXqdZQpC4GzLs4S3EhdjgXsLKOaJCZE6"
+                    },
+                    {
+                        "name": "Cormen Lin Lee - Introduction to Algorithms (Solutions)",
+                        "url": "https://drive.google.com/open?id=1wQxfgSvbdMQDzhU965Y5oWaP_enys0a9"
+                    }
+                ],
+                "class_materials": [
+                    {
+                        "name": "Greedy Design Techniques",
+                        "url": "https://drive.google.com/open?id=1mcQq3k1NZsDqZrmjbexmFftsDPWSS4BF"
+                    }
+                ]
+            },
+            {
+                "code": "EC 403",
+                "name": "Analog Circuits",
+                "icon": "ac4",
+                "cse": false,
+                "ece": true,
+                "exam_papers": [
+                    {
+                        "name": "MidSem 19",
+                        "url": "https://drive.google.com/open?id=1C-6KFgICPsb9XQYI_rD_kR0e8UbUULJ8"
+                    },
+                    {
+                        "name": "EndSem 19",
+                        "url": "https://drive.google.com/open?id=16_3LbepRM1xtC03g4TPxc5xoB5apgQNl"
+                    },
+                    {
+                        "name": "MidSem 20",
+                        "url": "https://drive.google.com/open?id=1OaJIyNVvzoVHO2TAr_Xyn6_GVdJBpvjC"
+                    }
+                ],
+                "books": [
+                    {
+                        "name": "S Franco Design With Operational Amplifiers and Analog Integrated Circuits",
+                        "url": "https://drive.google.com/open?id=1MAIsShiVLjYiq8XAqHpBSMYKcJ-lQj9b"
+                    }
+                ],
+                "class_materials": [
+                    {
+                        "name": "AC Notes Mid Sem",
+                        "url": "https://drive.google.com/open?id=1TcYRlcFoEJyDFtMbSf4YmU7F0yMOCuxt"
+                    },
+                    {
+                        "name": "AC Assignment 1",
+                        "url": "https://drive.google.com/open?id=1KwjFHcNeWXZNsFMDTlAteCC9LNQRyINc"
+                    },
+                    {
+                        "name": "AC Active Filter Notes",
+                        "url": "https://drive.google.com/open?id=1mbJkgrIb2cXxOulfxt66E1errft3s7Sv"
+                    },
+                    {
+                        "name": "Analog to Digital & Digital to Analog Converters",
+                        "url": "https://drive.google.com/open?id=15rduuXDg_1OVYM2-0RFZXrcniuXfAw9A"
+                    },
+                    {
+                        "name": "AC Multiple Feedback & SV Filters",
+                        "url": "https://drive.google.com/open?id=1SqrElPlbF0_9aaEDAVJdHNY8qAyVu0xB"
+                    },
+                    {
+                        "name": "AC Second Order Active Filters",
+                        "url": "https://drive.google.com/open?id=1Fi64eODXIwW9D89hBOB7gMgWRqAGI38M"
+                    },
+                    {
+                        "name": "AC Second Order Cascade Filters",
+                        "url": "https://drive.google.com/open?id=1v0UNUL14weiUe4b_3O2ZUBKEnzTbUhRd"
+                    },
+                    {
+                        "name": "NPTEL Video Link",
+                        "url": "https://drive.google.com/open?id=1mkC5cGFN_vkQpXzM_5D9qxYajnTUePmH"
+                    },
+                    {
+                        "name": "Solution AC Assignment 1",
+                        "url": "https://drive.google.com/open?id=1B3P0s3aiHd736TDvHjV-Dsg03qPHxZF8"
+                    }
+                ]
+            },
+            {
+                "code": "EC 404",
+                "name": "Digital Communication",
+                "icon": "dc4",
+                "cse": false,
+                "ece": true,
+                "exam_papers": [
+                    {
+                        "name": "MidSem 19",
+                        "url": "https://drive.google.com/open?id=1KRKwaCIezNmLjPutbJ1s0GtAHoqPj_am"
+                    },
+                    {
+                        "name": "EndSem 19",
+                        "url": "https://drive.google.com/open?id=1YC1Xq4ian1vTdfw9mwII16Uafs7nQ3Fh"
+                    },
+                    {
+                        "name": "MidSem 20",
+                        "url": "https://drive.google.com/open?id=1o1VvvFlg6UGZIyM6lgVl6avAdsbAqg5r"
+                    }
+                ],
+                "books": [
+                    {
+                        "name": "S Franco Design With Operational Amplifiers and Analog Integrated Circuits",
+                        "url": "https://drive.google.com/open?id=1MAIsShiVLjYiq8XAqHpBSMYKcJ-lQj9b"
+                    }
+                ],
+                "class_materials": [
+                    {
+                        "name": "Baseband Communication",
+                        "url": "https://drive.google.com/open?id=1-46cZYCpV4aD9i0GJo5lsOfdBpunqJwX"
+                    },
+                    {
+                        "name": "Principles Of Digital Data Communication",
+                        "url": "https://drive.google.com/open?id=1B1w1EtjQJwMGfPnwmXvsZGKgPpb_SyaR"
+                    },
+                    {
+                        "name": "TDM Pulse Code Modulation Transmitter and Receiver Trainer ST2153 and ST2154 Operating",
+                        "url": "https://drive.google.com/open?id=1ssJED11dtuFirtNsHm_fq_Ds63G95TZn"
+                    },
+                    {
+                        "name": "Correlative Coding",
+                        "url": "https://drive.google.com/open?id=1OpLGsRTaKTH_YSJYv18frnEGBwAlA2PG"
+                    },
+                    {
+                        "name": "Assignment 2",
+                        "url": "https://drive.google.com/open?id=1OUvPo1BgshReyqjBAsfCCBfNuS_sbRMa"
+                    },
+                    {
+                        "name": "Channel Capacity of Continuous Memory Less Channel",
+                        "url": "https://drive.google.com/open?id=1ZRQJ6FPnImjFn0R6uvPdIp8f-edySeo1"
+                    },
+                    {
+                        "name": "Channel Coding 1",
+                        "url": "https://drive.google.com/open?id=1tCRK1XhdyIBPmJZWP9IriY8Q1J0_dQv3"
+                    },
+                    {
+                        "name": "Channel Coding 2",
+                        "url": "https://drive.google.com/open?id=1H8eMVlHcJU99912Az9fiDAJ3xf5Wc9T2"
+                    },
+                    {
+                        "name": "Cyclic Coding & Convolution Code",
+                        "url": "https://drive.google.com/open?id=1nriqxsaUdYGymZPhXUyR4gK3b9wogXon"
+                    },
+                    {
+                        "name": "Capacity of a Band-Limited AWGN Channel",
+                        "url": "https://drive.google.com/open?id=12DA4SxiukxRqRj4WNYwZPDnHjzHfmHNT"
+                    }
+                ]
+            },
+            {
+                "code": "EC 405",
+                "name": "MicroControllers",
+                "icon": "mc4",
+                "cse": false,
+                "ece": true,
+                "exam_papers": [
+                    {
+                        "name": "MidSem 19",
+                        "url": "https://drive.google.com/open?id=1mWrd5X4MLson7uHUssF80Cv_OUs5R6dG"
+                    },
+                    {
+                        "name": "EndSem 19",
+                        "url": "https://drive.google.com/open?id=1Gxd5fwikUi_IQSIwaQ-xtcKHSTBRIu0n"
+                    },
+                    {
+                        "name": "MidSem 20",
+                        "url": "https://drive.google.com/open?id=1dFKWVxxyiXkph3wJI-mVNb1urbY5WKsr"
+                    }
+                ],
+                "books": [
+                    {
+                        "name": "The 8051 Microcontroller and Embedded Systems - Mazidi",
+                        "url": "https://drive.google.com/open?id=1sdjx_wJNtL45T_aa4bS1002T02Q7cFx1"
+                    },
+                    {
+                        "name": "AVR Microcontroller and Embedded Systems",
+                        "url": "https://drive.google.com/open?id=1zHdBHAiOfhzQ79Dx1q16vP6PXVtw7VUK"
+                    }
+                ],
+                "class_materials": [
+                    {
+                        "name": "Micro controller EndSem Notes",
+                        "url": "https://drive.google.com/open?id=1yKjp9ex74bFqM5k_g4RwhSr-zVo2Oh2n"
+                    },
+                    {
+                        "name": "AVR Timer & Counters",
+                        "url": "https://drive.google.com/open?id=1sFamFQ_8Sm31c3xnEYQZ0D5WXm30YXr2"
+                    },
+                    {
+                        "name": "8051 Programming in C -1",
+                        "url": "https://drive.google.com/open?id=1BNcf-CNg08TgUdNoWcK0QxlsTMRhlqwi"
+                    },
+                    {
+                        "name": "8051 Programming in C -2",
+                        "url": "https://drive.google.com/open?id=1r1GnoAbd_JcynuxUhEfTZuhUrIYGcSkW"
+                    }
+                ]
+            },
+            {
+                "code": "EC 406",
+                "name": "Electromagnetics",
+                "icon": "emw4",
+                "cse": false,
+                "ece": true,
+                "exam_papers": [
+                    {
+                        "name": "MidSem 19",
+                        "url": "https://drive.google.com/open?id=1vECSNJ3-jnYQrvPmTSf0TZtvZuZI-nWw"
+                    },
+                    {
+                        "name": "MidSem 20",
+                        "url": "https://drive.google.com/open?id=1y1NebAyVMigmJwtT5jkQe0SgGrxddi_F"
+                    }
+                ],
+                "books": [
+                    {
+                        "name": "Poynting Theorem and Plane waves Propagation",
+                        "url": "https://drive.google.com/open?id=1K3DRHEMkSJ9bFm-dRCt2AY2_t5q2mtNL"
+                    }
+                ],
+                "class_materials": [
+                    {
+                        "name": "Notes 1 - Mid Sem",
+                        "url": "https://drive.google.com/open?id=1ovlJw3QE1UecIRt2Q3rYLvBBa_eFZt42"
+                    },
+                    {
+                        "name": "Notes 2 - Mid Sem",
+                        "url": "https://drive.google.com/open?id=1W67wk9pkkLmrD0s7q3Uddvrc51S0A2la"
+                    },
+                    {
+                        "name": "Antennas",
+                        "url": "https://drive.google.com/open?id=1Xwg3Ja5AbAgrpTzDAXX0emjWuxzfdsxv"
+                    },
+                    {
+                        "name": "Antenna Problems",
+                        "url": "https://drive.google.com/open?id=1mf-qMpZTk58KfSpu5ot_RfCu8Z-_IQjB"
+                    },
+                    {
+                        "name": "Waveguides",
+                        "url": "https://drive.google.com/open?id=1mfhlATqTqq22yP3VMm5KqWccvxWUH_Hk"
+                    }
+                ]
+            }
+        ],
+        "5": [
+            {
+                "code": "CS 501",
+                "name": "Software Engineering",
+                "icon": "se5",
+                "cse": true,
+                "ece": false,
+                "exam_papers": [
+                    {
+                        "name": "EndSem 2021",
+                        "url": "https://drive.google.com/file/d/1oAiIR1d8dym9_Kya1AXaT7EB7qle1zaO/view?usp=share_link"
+                    }
+                ],
+                "books": [
+                    {
+                        "name": "Fundamentals of Software Engineering",
+                        "url": "https://drive.google.com/open?id=18Ku9iKhzfSNKWhcbT8CRiA-WRlrGyCAR"
+                    },
+                    {
+                        "name": "Software Engineering by Sommerville",
+                        "url": "https://drive.google.com/open?id=1_iGzorhEfd6ylV1lPo3hCWDyXV2TrO3y"
+                    }
+                ],
+                "class_materials": [
+                    {
+                        "name": "Agile Development",
+                        "url": "https://drive.google.com/open?id=14jH5SrXfCh0QxgTCjR9SCaKz26pA-VpmFhSkll0evv0"
+                    },
+                    {
+                        "name": "Process Model",
+                        "url": "https://drive.google.com/open?id=1sWSCIgMHB6ZGZ6KnSP4kngr68vsiHTrHk6LNVqoAOLk"
+                    },
+                    {
+                        "name": "SE Notes Final ",
+                        "url": "https://drive.google.com/open?id=14yEnJvYnOAFo-WQRob8s1MK8s5RNxeqS"
+                    }
+                ]
+            },
+            {
+                "code": "CS 502",
+                "name": "Computer Graphics",
+                "icon": "cg5",
+                "cse": true,
+                "ece": false,
+                "exam_papers": [
+                    {
+                        "name": "EndSem 2021",
+                        "url": "https://drive.google.com/file/d/1ZvN4nMjixzmhpv88u1VPcTfri8XT_4pG/view?usp=share_link"
+                    }
+                ],
+                "books": [
+                    {
+                        "name": "Computer Graphics C Version",
+                        "url": "https://drive.google.com/open?id=1ryEC4iVy4PHmHddzC__JKlf-fn9_P8Vz"
+                    }
+                ],
+                "class_materials": [
+                    {
+                        "name": "3D Projections",
+                        "url": "https://drive.google.com/open?id=1iVQY6VYzvmjT13lJlv2ZISV6NI4R-XcS"
+                    },
+                    {
+                        "name": "3D Clipping",
+                        "url": "https://drive.google.com/open?id=14504jl_dgKSxlaFR5GzliMSjf4_miqPq"
+                    },
+                    {
+                        "name": "Basics of Computer Graphics",
+                        "url": "https://drive.google.com/open?id=1toa3bvwfcfqsLntts4k_HoNAItffhOQD3Gj3lJ0Uob0"
+                    },
+                    {
+                        "name": "Graphic Primitives",
+                        "url": "https://drive.google.com/open?id=1G0rZekzHHirY_zwdXe250xuIaiSn2liCtXJCGuoT_Us"
+                    },
+                    {
+                        "name": "2D Transformation & Viewing",
+                        "url": "https://drive.google.com/open?id=1P1dIzJqzhSecjm77bXhac7jX5HYpvDTqLhpwmPdb9YY"
+                    },
+                    {
+                        "name": "Advance Topics",
+                        "url": "https://drive.google.com/open?id=1u8fGGs_YpO3Hl9PuVPPM7uSgK5VYZj5NifPSpOvwzB8"
+                    }
+                ]
+            },
+            {
+                "code": "CS 524",
+                "name": "Object Oriented Programming",
+                "icon": "oop5",
+                "cse": false,
+                "ece": true,
+                "exam_papers": [
+                    {
+                        "name": "MidSem 2022",
+                        "url": "https://drive.google.com/file/d/1oKxDTslt0fCkui77tNHiXJVtH6hlnkGD/view?usp=share_link"
+                    },
+                    {
+                        "name": "EndSem 2022",
+                        "url": "https://drive.google.com/file/d/1oFxPf7YtkRWmn-3z5GqADNeaC94ECHeD/view?usp=share_link"
+                    }
+                ],
+                "books": [],
+                "class_materials": []
+            },
+            {
+                "code": "EC 503",
+                "name": "Digital Signal Processing",
+                "icon": "dsp5",
+                "cse": true,
+                "ece": true,
+                "exam_papers": [
+                    {
+                        "name": "MidSem 19",
+                        "url": "https://drive.google.com/open?id=1wlszuGgxh7yeinW8W2faULfxO9iXptV3"
+                    },
+                    {
+                        "name": "MidSem 2022",
+                        "url": "https://drive.google.com/file/d/1ifKW-8M5kZ95l2n5hynwdidL0XSVPHSu/view?usp=share_link"
+                    },
+                    {
+                        "name": "EndSemv2022",
+                        "url": "https://drive.google.com/file/d/1GEJWpaV3TATYCybGPNXbl6LCQOSXsLtI/view?usp=share_link"
+                    }
+                ],
+                "books": [
+                    {
+                        "name": "Digital Signal Processing",
+                        "url": "https://drive.google.com/open?id=1UIpCyak3CpdmTONDFNAItXFKWICpzGxR"
+                    }
+                ],
+                "class_materials": [
+                    {
+                        "name": "Assignment-1",
+                        "url": "https://drive.google.com/open?id=1pVeavWLCdru5iFCLL5jYXEyI7CtRoo7M"
+                    },
+                    {
+                        "name": "Implementation of Discrete-Time Systems",
+                        "url": "https://drive.google.com/open?id=16LyuIO4bWqZZzPewP1HYlCyjQZzh1qVz"
+                    },
+                    {
+                        "name": "Multiple Digital Signal Processing",
+                        "url": "https://drive.google.com/open?id=1zJhSfQ5vkD57pTgGkJcfthrf3qnbGOdE"
+                    },
+                    {
+                        "name": "Design of Digital Filter",
+                        "url": "https://drive.google.com/open?id=1-xyp8gOm-DokXuFQVoihPOtSIzRTmEpp"
+                    },
+                    {
+                        "name": "DFT & FFT Algorithms",
+                        "url": "https://drive.google.com/open?id=1O5QmIvhyrGZw5PZxsrgaBi8lmI-0meBw"
+                    },
+                    {
+                        "name": "Discrete Time Systems",
+                        "url": "https://drive.google.com/open?id=1vkN0HInJZA-9UlVuUBgAPKWieXJ_W4Be"
+                    },
+                    {
+                        "name": "After MidSem Written Notes 1",
+                        "url": "https://drive.google.com/open?id=10b1FPai2EpQoRlbygHWW2HOTahtpjTlX"
+                    },
+                    {
+                        "name": "After MidSem Written Notes 2",
+                        "url": "https://drive.google.com/open?id=1Y4nXh9bQ7PjDEbxvAzC6sZu8rrtTgvEV"
+                    },
+                    {
+                        "name": "MidSem written Notes ",
+                        "url": "https://drive.google.com/open?id=1IuhPddorS65f60_L06bkpd0cLKH3i5FQ"
+                    },
+                    {
+                        "name": "Structure/Implementation of Discrete-Time System",
+                        "url": "https://drive.google.com/open?id=13mAe_n0OIeyT0ZmkrAH8u4wqYI_Tmgsx"
+                    },
+                    {
+                        "name": "Basics of Linear Phase FIR Filter",
+                        "url": "https://drive.google.com/open?id=1Lmkq2pn0xJ6fiOOSuDuJqP6pe4UUdTrN"
+                    },
+                    {
+                        "name": "Structure of FIR & IIR Systems",
+                        "url": "https://drive.google.com/open?id=1Fo4yaIgt_S9ypueWh-99jOCkcbGzcZWG"
+                    }
+                ]
+            },
+            {
+                "code": "AE 504",
+                "name": "Economics & Business Management",
+                "icon": "ebm5",
+                "cse": true,
+                "ece": true,
+                "exam_papers": [
+                    {
+                        "name": "MidSem 19",
+                        "url": "https://drive.google.com/open?id=1FoOnJDCeKdKwzpqtpZnC3IS-wFOTtOdQ"
+                    },
+                    {
+                        "name": "EndSem 19",
+                        "url": "https://drive.google.com/open?id=1nml8nvF3i1p_EPjVVzw2zzsIXUA3D5dV"
+                    },
+                    {
+                        "name": "EndSem 2021",
+                        "url": "https://drive.google.com/file/d/1HAp3q8gfnRnaZXODOSc1INK4CJYZJ_ua/view?usp=share_link"
+                    },
+                    {
+                        "name": "MidSem 2022",
+                        "url": "https://drive.google.com/file/d/10RsTwH6DMSmqFML5Pec58K1dpEfbqwCC/view?usp=share_link"
+                    },
+                    {
+                        "name": "EndSem 2022",
+                        "url": "https://drive.google.com/file/d/1dcG7dCMNQSoz1xiTuy7ts3lVjr3cBEYn/view?usp=share_link"
+                    }
+                ],
+                "books": [
+                    {
+                        "name": "Principles & Practices of Management",
+                        "url": "https://drive.google.com/open?id=1jBME5jWDO8VSczYihCtmahLFT0nl8Mwe"
+                    },
+                    {
+                        "name": "Industrial Engineering & Management",
+                        "url": "https://drive.google.com/open?id=1FDBC1NyqDh37L2KCvo-E9xjm5vVQ2Y7g"
+                    }
+                ],
+                "class_materials": [
+                    {
+                        "name": "Forms Of Business Organization ",
+                        "url": "https://drive.google.com/open?id=1MeGopuRN8AhbilFceqzYeZMKrWKnWf24"
+                    },
+                    {
+                        "name": "Introduction to Management",
+                        "url": "https://drive.google.com/open?id=1oVUa-7GAqiwKgCOP_d0kQSA5qvXJidM_"
+                    },
+                    {
+                        "name": "Development of Management Thoughts",
+                        "url": "https://drive.google.com/open?id=1Y242XpeEKnZrHewjDmqEVevxnz52Y06e"
+                    },
+                    {
+                        "name": "Fundamentals of Planning",
+                        "url": "https://drive.google.com/open?id=1SvUoDuoTyjrpAZupw8AAPeFtP9290tR_"
+                    },
+                    {
+                        "name": "Management by Objective",
+                        "url": "https://drive.google.com/open?id=1PuG81Pm8RIV2BcxFleHo1xdW_dYWABxU"
+                    },
+                    {
+                        "name": "Types of Business Organization",
+                        "url": "https://drive.google.com/open?id=12KNP03UcAbxE1PJuKUErf5oJZdKIZ-_N"
+                    },
+                    {
+                        "name": "Leadership",
+                        "url": "https://drive.google.com/open?id=1C_qA5AaY9PxekjS4YJsKsglYv1llQBku"
+                    },
+                    {
+                        "name": "Motivation",
+                        "url": "https://drive.google.com/open?id=1qUV-LUluWejy0TDx0Q42JAU9qYYs1-Rt"
+                    },
+                    {
+                        "name": "Demand Analysis",
+                        "url": "https://drive.google.com/open?id=1srlx-9yTOF7yhkIWzDaA9YXlhs8n-uBf"
+                    },
+                    {
+                        "name": "Management,Planning,Motivation",
+                        "url": "https://drive.google.com/open?id=1cc7aql4_UQxJl0NpZOYXJS-5JWeg4s6G"
+                    },
+                    {
+                        "name": "Personal Management",
+                        "url": "https://drive.google.com/open?id=1P_giA8ReW-eQOon8tl0GwVl77dDnd-qq"
+                    },
+                    {
+                        "name": "Training & Development",
+                        "url": "https://drive.google.com/open?id=1kq4KyoKGqbG0sMmyqL7QzNBGX5Jp2UP-"
+                    }
+                ]
+            },
+            {
+                "code": "CS 511",
+                "name": "Numerical Methods Using Python",
+                "icon": "nmup5",
+                "cse": true,
+                "ece": true,
+                "exam_papers": [
+                    {
+                        "name": "MidSem 19",
+                        "url": "https://drive.google.com/open?id=15xCrv4OOUwJeXZ2y4MYHQIYkEDP_Tqh0"
+                    },
+                    {
+                        "name": "EndSem 19",
+                        "url": "https://drive.google.com/open?id=1R5hRmwaoh7GWp7DCp1pFzYy3UJWIPi3e"
+                    },
+                    {
+                        "name": "MidSem 2022",
+                        "url": "https://drive.google.com/file/d/1mJHMgEfsFxGzeIIpY-3oPPtqrSaNNRa0/view?usp=share_link"
+                    }
+                ],
+                "books": [
+                    {
+                        "name": "Numerical Methods In Engineering with Python",
+                        "url": "https://drive.google.com/open?id=19RQmWjZvNOsEM9ojC8051L1tOIiR2GUT"
+                    }
+                ],
+                "class_materials": [
+                    {
+                        "name": "Decomposition",
+                        "url": "https://drive.google.com/open?id=1-o9H3JtIIptsl-a5-ki0IpTyiZzyPlR-"
+                    },
+                    {
+                        "name": "Interpolation",
+                        "url": "https://drive.google.com/open?id=1XswvLAA7_2yJXrhEzY8L10L3h75z9AYi"
+                    },
+                    {
+                        "name": "Newton's Method",
+                        "url": "https://drive.google.com/open?id=1M54mmp0s_UnleaavPZauka099_yyLrOW"
+                    },
+                    {
+                        "name": "Numerical Integration",
+                        "url": "https://drive.google.com/open?id=1x0gJGt2MdDNv8n22Ju1Lbtwx4kDOu5uc"
+                    },
+                    {
+                        "name": "Roots of Equation",
+                        "url": "https://drive.google.com/open?id=1LLaP9y0Ofp_Ib-MaVr6r_apjRXyh2ohj"
+                    },
+                    {
+                        "name": "Spline Interpolation",
+                        "url": "https://drive.google.com/open?id=145apX-BFI7kAWp-osM-VLmEROSxv7gNB"
+                    }
+                ]
+            },
+            {
+                "code": "CS 521",
+                "name": "Fuzzy Logic & Neural Network",
+                "icon": "flnn5",
+                "cse": true,
+                "ece": true,
+                "exam_papers": [
+                    {
+                        "name": "MidSem 19",
+                        "url": "https://drive.google.com/open?id=1iKtEd35tqFHjq4kHUvFCyY3QyAZylUn4"
+                    },
+                    {
+                        "name": "EndSem 19",
+                        "url": "https://drive.google.com/open?id=17yjhFzwDsCsSqXO6CsMyMJV0ig8q9JuQ"
+                    },
+                    {
+                        "name": "EndSem 2021",
+                        "url": "https://drive.google.com/file/d/14GkBhJqmfK1ZYkPwXv5kYMvvfkiud5mL/view?usp=share_link"
+                    }
+                ],
+                "books": [
+                    {
+                        "name": "Fuzzy Logic With Engineering Applications-TJ Ross 3rd Edition",
+                        "url": "https://drive.google.com/open?id=17w5YI3SOFQAmn9p6XpjDnlGsTz-7F0x1"
+                    }
+                ],
+                "class_materials": [
+                    {
+                        "name": "Amisha Mam MidSem Notes",
+                        "url": "https://drive.google.com/open?id=1DHAtO-edkdr_dH199hsPxF31qLGKd8wk"
+                    },
+                    {
+                        "name": "Complete Learning",
+                        "url": "https://drive.google.com/open?id=1KqvJZbJAadHoUoMabGyoulINbBX5mxGh"
+                    },
+                    {
+                        "name": "FNN EndSem Written Notes",
+                        "url": "https://drive.google.com/open?id=1W2Ha1Gojmudt4Vrn0XolF0TCLASuPp7k"
+                    },
+                    {
+                        "name": "FNN MidSem",
+                        "url": "https://drive.google.com/open?id=1To2yd_3iBBolqvXBQPPGozfCHLQ6F6QX"
+                    },
+                    {
+                        "name": "Fuzzy MidSem Written Notes",
+                        "url": "https://drive.google.com/open?id=1cVgwMLGc_KrSqBGhG_LjuyhSCFioLmoL"
+                    },
+                    {
+                        "name": "Learning",
+                        "url": "https://drive.google.com/open?id=1zUsbXUIWHbPedmw7njyAAc6tKdAmrwOx"
+                    },
+                    {
+                        "name": "Memory Based Learning",
+                        "url": "https://drive.google.com/open?id=18PWett7gSUi7y1DAACLwDaDNHZjoXL1v"
+                    },
+                    {
+                        "name": "NN Written Notes",
+                        "url": "https://drive.google.com/open?id=1RPCncoPLPPS1vrzJFN1uTzQ4gsZMsf2l"
+                    }
+                ]
+            },
+            {
+                "code": "EE 501",
+                "name": "Control System",
+                "icon": "cs5",
+                "cse": false,
+                "ece": true,
+                "exam_papers": [
+                    {
+                        "name": "MidSem 19",
+                        "url": "https://drive.google.com/open?id=1NRLPYDXXJpic9uyUBv_gt9ZtRQm7T18R"
+                    },
+                    {
+                        "name": "EndSem 19",
+                        "url": "https://drive.google.com/open?id=1BnuXeyvV3ZHo5k9hLGVmlYiVE89bZh0z"
+                    },
+                    {
+                        "name": "EndSem 2022",
+                        "url": "https://drive.google.com/file/d/17idAXXhrppOvYriPPwjr4k8TMp0pvZl9/view?usp=share_link"
+                    }
+                ],
+                "books": [],
+                "class_materials": [
+                    {
+                        "name": "Control System Notes",
+                        "url": "https://drive.google.com/open?id=12VLJlXUyDZsrG-XO-7GZoDmz-gFp8qal"
+                    },
+                    {
+                        "name": "CS MidSem19 ",
+                        "url": "https://drive.google.com/open?id=1tQC8J7_ZerC0ZYdEpDr1z20J4QXyVt0C"
+                    },
+                    {
+                        "name": "CS EndSem19",
+                        "url": "https://drive.google.com/open?id=1bypc5k9s5IE9VBFH4lNz6DVN6zKOBLYC"
+                    }
+                ]
+            },
+            {
+                "code": "EC 502",
+                "name": "Digital Integrated Circuit",
+                "icon": "dic5",
+                "cse": false,
+                "ece": true,
+                "exam_papers": [
+                    {
+                        "name": "MidSem 19",
+                        "url": "https://drive.google.com/open?id=1SbBatIXKxnnAUHJ8nepj4zErJ7hpQUGL"
+                    },
+                    {
+                        "name": "EndSem 19",
+                        "url": "https://drive.google.com/open?id=1VvKJLlHGGmtCpN0q_ooTWgaUqD0Jbdes"
+                    },
+                    {
+                        "name": "EndSem 2022",
+                        "url": "https://drive.google.com/file/d/10IUXZzUTML6rRlFFRD7ueUmvu8M--3eR/view?usp=share_link"
+                    },
+                    {
+                        "name": "MidSem 2022",
+                        "url": "https://drive.google.com/file/d/1FY8Ta3tBQUH6S3SdjOIu4g2Vk_fnmFKa/view?usp=share_link"
+                    }
+                ],
+                "books": [
+                    {
+                        "name": "CMOS kang",
+                        "url": "https://drive.google.com/open?id=1VEAUa53s_fEqHU0TgfgpHcKKR-Z9wzwr"
+                    },
+                    {
+                        "name": "Digital Logic and Computer Design M. Morris Mano",
+                        "url": "https://drive.google.com/open?id=1zangkWzzawfk_uV-aBWrUJ3FlxboZrdR"
+                    },
+                    {
+                        "name": "Microelectronic Circuits ",
+                        "url": "https://drive.google.com/open?id=1vOm_--hyxE1d_vA22kd5E2Xy0qiDvGoX"
+                    },
+                    {
+                        "name": "Microelectronics Circuit Analysis and Design 4th Edition",
+                        "url": "https://drive.google.com/open?id=1BqvZRO0FVqcMOyVTXEnTBCS2EL0mntDv"
+                    },
+                    {
+                        "name": "Solution - Microelectronics Circuit Analysis and Design Donal 4th Edition",
+                        "url": "https://drive.google.com/open?id=1fPJeuIUjzGQ2R2fMbsXYBa5faxhO-gmY"
+                    }
+                ],
+                "class_materials": [
+                    {
+                        "name": "ESE 570 MOS INVERTERS STATIC (DC Steady State) Characteristics",
+                        "url": "https://drive.google.com/open?id=1pFdFpxkjVToLidjxifkkqFrM8JB2ez_C"
+                    },
+                    {
+                        "name": "EE 560 MOS INVERTERS: STATIC CHARACTERISTICS Kenneth R. Laker, University of Pennsylvania continued",
+                        "url": "https://drive.google.com/open?id=1g8z0BXqQNZcuWazNdfMsHdulFU6jQxDK"
+                    },
+                    {
+                        "name": "EE 560 MOS Inverters : Dynamic Characteristics",
+                        "url": "https://drive.google.com/open?id=1tKq9Cy0lgZgBJyr7nKe1F-9ZTM2eRykw"
+                    },
+                    {
+                        "name": "Logic Families Tutorial 1",
+                        "url": "https://drive.google.com/open?id=1qv5YrXyTImHqLeIatPuTTG4kaY_TbFyj"
+                    },
+                    {
+                        "name": "Logic Families Tutorial 2",
+                        "url": "https://drive.google.com/open?id=15Y9eaDibhR0Jd9jVP8H8XXSwHUD3rjCZ"
+                    },
+                    {
+                        "name": "Packaging",
+                        "url": "https://drive.google.com/open?id=1xaWcA1RF5-YwwT4-KfL6DeSXFtAS0JcZ"
                     }
                 ]
             }
         ],
         "6": [
             {
-                "code": "",
-                "name": "",
-                "icon": "",
+                "code": "CS 604",
+                "name": "Advance Database Management",
+                "icon": "adbms6",
+                "ece": false,
+                "cse": true,
+                "exam_papers": [],
+                "books": [
+                    {
+                        "name": "Distributed Database Management System 'A practical Approach'",
+                        "url": "https://drive.google.com/open?id=155MnNSNXiT-7zcFb_7BGl3LYHPZi6T_f"
+                    },
+                    {
+                        "name": "Principles of Distributed database",
+                        "url": "https://drive.google.com/open?id=1PVMnvUDXKJVNILdTiGr_M6p3u5DDPQLZ"
+                    }
+                ],
+                "class_materials": [
+                    {
+                        "name": "Introduction",
+                        "url": "https://drive.google.com/open?id=1H88rE3_RZyVfTBlME1pwP77zNhUSnfpO"
+                    },
+                    {
+                        "name": "Reliability and Availability",
+                        "url": "https://drive.google.com/open?id=1hl5Ku3Y0gY6RmhOXlgnowwSztIB26W8KK76SJYtrRiQ"
+                    }
+                ]
+            },
+            {
+                "code": "CS 641",
+                "name": "Augmented & Virtual Reality",
+                "icon": "avr6",
+                "cse": true,
+                "ece": true,
+                "exam_papers": [
+                    {
+                        "name": "MidSem 2020",
+                        "url": "https://drive.google.com/open?id=13OIdXnXBPUTkkWJwMUki-rmxU436x6-_"
+                    }
+                ],
+                "books": [
+                    {
+                        "name": "Virtual Reality ",
+                        "url": "https://drive.google.com/open?id=1OqZ9Jz5hMj4Y8MDWDVT1X_4oNsim9Cv7"
+                    }
+                ],
+                "class_materials": [
+                    {
+                        "name": "VR Notes",
+                        "url": "https://drive.google.com/open?id=1MsQIBSaYe0-70Y-yqWxAASIqD5-tS-Wa"
+                    },
+                    {
+                        "name": "Augmented and Virtual Reality",
+                        "url": "https://drive.google.com/open?id=1GlGWK99DE6qkuno2u-0id2w2-7WSIiux"
+                    },
+                    {
+                        "name": "Light and Optics",
+                        "url": "https://drive.google.com/open?id=1TF1tZo_OjU86_XXANDg0iud1WNjvJRhf"
+                    }
+                ]
+            },
+            {
+                "code": "CS 632",
+                "name": "Cloud Computing & Big Data Infrastructure",
+                "icon": "ccbd6",
+                "cse": true,
+                "ece": true,
+                "exam_papers": [
+                    {
+                        "name": "MidSem 2020",
+                        "url": "https://drive.google.com/open?id=15ZGrcr56yZuE1WA8UWgg8nj7GI70yJbK"
+                    },
+                    {
+                        "name": "EndSem 2022",
+                        "url": "https://drive.google.com/file/d/1SAvHTbw0jllQzZIrzYhWVITsPE7fNuVS/view?usp=share_link"
+                    }
+                ],
+                "books": [
+                    {
+                        "name": "Mastering Cloud Computing",
+                        "url": "https://drive.google.com/open?id=1ibuVPkzxFc0edcBm91N6YD4CJn7qC6rn"
+                    }
+                ],
+                "class_materials": [
+                    {
+                        "name": "HADOOP",
+                        "url": "https://drive.google.com/open?id=1X_SYV9-tlbjytdkiws8fbi1NZuO-W6zv"
+                    },
+                    {
+                        "name": "Apache Pig",
+                        "url": "https://drive.google.com/open?id=1eF9yJTBltEUXxYcOShWDjsaoB40o58Xj"
+                    },
+                    {
+                        "name": "MapReduce High-Level Languages",
+                        "url": "https://drive.google.com/open?id=1tMdOtLc3K5CMpJObX0L9LSdVPVMFGuve"
+                    },
+                    {
+                        "name": "CCBD Notes",
+                        "url": "https://drive.google.com/file/d/1R6SI6ipLleSvMz6KVySDUKrSoSeDDdy6/view?usp=share_link"
+                    }
+                ]
+            },
+            {
+                "code": "EC 602",
+                "name": "Digital VLSI Design",
+                "icon": "dvd6",
+                "cse": false,
+                "ece": true,
+                "exam_papers": [
+                    {
+                        "name": "MidSem 2020",
+                        "url": "https://drive.google.com/open?id=1dvAtWotn2a4KP8pXHBn12WOLGV5U5qjb"
+                    },
+                    {
+                        "name": "EndSem 2022",
+                        "url": "https://drive.google.com/file/d/1Bo48obYtY5SpHZ617nMTxRTklkYHu9hh/view?usp=share_link"
+                    }
+                ],
+                "books": [
+                    {
+                        "name": "Interconnect By Kang",
+                        "url": "https://drive.google.com/open?id=1S9WPBcl717dJRoWeBCHJO-Zwx6kCF80B"
+                    },
+                    {
+                        "name": "Rabaey Digital Integrated Circuits",
+                        "url": "https://drive.google.com/open?id=16poStgBKTFteeqcqIH5My_IfuWjvVPtO"
+                    },
+                    {
+                        "name": "The Wire(Ch 4 Rabaey)",
+                        "url": "https://drive.google.com/open?id=1Qq1mpCBdXOvrEh2Uy3DJh4BzrgPc4dBZ"
+                    }
+                ],
+                "class_materials": [
+                    {
+                        "name": "ADD Dynamic Logic",
+                        "url": "https://drive.google.com/open?id=1GKhTyCMdwtBeZ29AiNbQMH51xisT-XdI"
+                    },
+                    {
+                        "name": "ASIC Design Flow",
+                        "url": "https://drive.google.com/open?id=1em_2iGjc93zlRJT6-OFVWjzUdk4UGUhn"
+                    },
+                    {
+                        "name": "Coping with Interconnects",
+                        "url": "https://drive.google.com/open?id=1KRuuEqM1woj9TEiX1w9FHB_hAviqCfUY"
+                    },
+                    {
+                        "name": "Suraj Sir Notes",
+                        "url": "https://drive.google.com/open?id=1EALod7cFpfyTUusZD1wkyrFjunw_DmCy"
+                    },
+                    {
+                        "name": "Pass Translator Logic",
+                        "url": "https://drive.google.com/open?id=1YP3w42f2uCGpiXgCgVA9O7dD1YRZaJJt"
+                    },
+                    {
+                        "name": "The Wire Interconnects",
+                        "url": "https://drive.google.com/open?id=1g5DiTK_Rm7fTWVkquLUdldovYC5qcpnO"
+                    }
+                ]
+            },
+            {
+                "code": "EC 604",
+                "name": "Embedded Systems",
+                "icon": "es6",
+                "cse": false,
+                "ece": true,
+                "exam_papers": [
+                    {
+                        "name": "MidSem 2020",
+                        "url": "https://drive.google.com/open?id=1sm-o37ss_7W22xXda_udthBQfjVWQZ5Y"
+                    },
+                    {
+                        "name": "EndSem 2022",
+                        "url": "https://drive.google.com/file/d/1Lohje5fSCe5dNJDOUpZOVvi-nfcStU_w/view?usp=share_link"
+                    }
+                ],
+                "books": [
+                    {
+                        "name": "Freescale ARM Cortex-M Embedded Programming",
+                        "url": "https://drive.google.com/open?id=1FLdPtauDhRu0uvdeGlpYv6hgRdLiQcPB"
+                    },
+                    {
+                        "name": "ARM Assembly Language Programming & Architecture - Mazidi",
+                        "url": "https://drive.google.com/file/d/17e4eD8eDCKD9WB9Ysn44N-0fLB0fem6P/view?usp=share_link"
+                    }
+                ],
+                "class_materials": [
+                    {
+                        "name": "Introduction to Embedded Systems",
+                        "url": "https://drive.google.com/file/d/1kfmC_HDEaBeRRhOvZDppwCzpuespD0Fe/view?usp=share_link"
+                    },
+                    {
+                        "name": "History of ARM and Microcontrollers",
+                        "url": "https://drive.google.com/file/d/1sTy7cdCIi21Tst0_N_DE9ZQ-EY-51OkX/view?usp=share_link"
+                    },
+                    {
+                        "name": "ARM Architecture and Assembly Language Programming",
+                        "url": "https://drive.google.com/file/d/14hiKdibaU3_U2uQpjRdMrfLxhn2rzV00/view?usp=share_link"
+                    },
+                    {
+                        "name": "C Data Types for Embedded Systems",
+                        "url": "https://drive.google.com/file/d/1mjtkmzFHrCH-cZFPYJGcMP9Auzsl1XPU/view?usp=share_link"
+                    },
+                    {
+                        "name": "Freescale ARM I/O Programming",
+                        "url": "https://drive.google.com/file/d/1EYsjgxT8znjk_M1__W4wCxtb2JNFRQdj/view?usp=share_link"
+                    },
+                    {
+                        "name": "LCD & Keyboard Interfacing",
+                        "url": "https://drive.google.com/file/d/10JeIZ30vDyAC5Pj8taBprfB98Ouddqww/view?usp=share_link"
+                    },
+                    {
+                        "name": "ADC, DAC & Sensor Interfacing",
+                        "url": "https://drive.google.com/file/d/1UuYdd1HWrYmhnvU1ChT0vQD4YlqZaO1T/view?usp=share_link"
+                    },
+                    {
+                        "name": "Embedded Software Design & Development",
+                        "url": "https://drive.google.com/file/d/16dTRnuk9iJnMaU8uQsSudO_Ifsr-JdA5/view?usp=share_link"
+                    },
+                    {
+                        "name": "Real-Time Operating Systems",
+                        "url": "https://drive.google.com/file/d/1aD7Zhy1hy54UVxfZEtSyxWRXZfA568ub/view?usp=share_link"
+                    }
+                ]
+            },
+            {
+                "code": "CS 602",
+                "name": "High Performance Computing",
+                "icon": "hpc6",
                 "cse": true,
                 "ece": false,
                 "exam_papers": [],
                 "books": [],
-                "class_materials": []
+                "class_materials": [
+                    {
+                        "name": "Introduction",
+                        "url": "https://drive.google.com/open?id=1H88rE3_RZyVfTBlME1pwP77zNhUSnfpO"
+                    },
+                    {
+                        "name": "Data-Level Parallelism in Vector,SIMD,and GPU Architectures 1 ",
+                        "url": "https://drive.google.com/open?id=19rOVlQqkvu0ccjrbD-bUPq1l6WtkBhLe"
+                    },
+                    {
+                        "name": "Data-Level Parallelism in Vector,SIMD,and GPU Architectures 2 ",
+                        "url": "https://drive.google.com/open?id=1sWfTmRIigEFzpRiwmJYixu_nbIeeSeVa"
+                    }
+                ]
+            },
+            {
+                "code": "CS 601",
+                "name": "Introduction to Machine Learning ",
+                "icon": "iml6",
+                "cse": true,
+                "ece": true,
+                "exam_papers": [
+                    {
+                        "name": "MidSem 2022",
+                        "url": "https://drive.google.com/file/d/1C2gxdTRTNBQVPEDJAdHDD7R7jOLS7Nsv/view?usp=share_link"
+                    }
+                ],
+                "books": [
+                    {
+                        "name": "Alppaydin Machine Learning",
+                        "url": "https://drive.google.com/open?id=1d_70O-enUtDiugZTvY8g8g-IPd_uQyXt"
+                    },
+                    {
+                        "name": "Data Science From Scratch",
+                        "url": "https://drive.google.com/open?id=10AjyM-rjl5VmMQ2ZxwHRYRfkf8rwKTcS"
+                    },
+                    {
+                        "name": "Machine Learning Tom-Mitchell",
+                        "url": "https://drive.google.com/open?id=1cVNY6FPL8ynsXxheucIoOvqCqcLwDH4b"
+                    }
+                ],
+                "class_materials": [
+                    {
+                        "name": "CART Example",
+                        "url": "https://drive.google.com/open?id=1dLJxQEzvaj2CKx_n02aj8ylulpoQhRtY"
+                    },
+                    {
+                        "name": "Lecture 1",
+                        "url": "https://drive.google.com/open?id=1PYrk1EyVa7RWaTcIcvcZocv3Q1MURKZv"
+                    },
+                    {
+                        "name": "Lecture 4",
+                        "url": "https://drive.google.com/open?id=17Z4PblZy3Ayp1iizGGCMctbJ30hhPK_H"
+                    },
+                    {
+                        "name": "Lecture 4",
+                        "url": "https://drive.google.com/open?id=1M-Z45_cpht5Q1rl6Kg0xWiN_N6jeMdhR"
+                    },
+                    {
+                        "name": "Lecture 6",
+                        "url": "https://drive.google.com/open?id=1wUjA3JjAd0WShgo7hHoAtZU4e7-bOxKW"
+                    },
+                    {
+                        "name": "ML Decision Tree Learning",
+                        "url": "https://drive.google.com/open?id=1es2_IdIXmeBOuJUCWU8EM8Z5eZ9zcOsQ"
+                    },
+                    {
+                        "name": "Clustering Algorithms K-means Clustering 1",
+                        "url": "https://drive.google.com/open?id=1pTu1niWK04E4u7u5wAHOGNR3hKL7XHl-"
+                    },
+                    {
+                        "name": "Clustering Algorithms 2",
+                        "url": "https://drive.google.com/open?id=1QZsu1G2PXZxRVeRmjCW8Oyr0gd47J6PL"
+                    },
+                    {
+                        "name": "NAIVE BAYES CLASSIFIER",
+                        "url": "https://drive.google.com/open?id=1oqYn1BNhK9oIgeEXjxF2lh-F1qOjIT5l"
+                    },
+                    {
+                        "name": "Support Vector Machine (SVM)",
+                        "url": "https://drive.google.com/open?id=15qZbygL-_fZE8GTlB5I1KQ38ODizL9Zd"
+                    }
+                ]
+            },
+            {
+                "code": "CS 603",
+                "name": "Web Engineering",
+                "icon": "we6",
+                "cse": true,
+                "ece": true,
+                "exam_papers": [
+                    {
+                        "name": "MidSem 2020",
+                        "url": "https://drive.google.com/open?id=15U_QaFOVPkr80bMeoXvyzdlUEcabat38"
+                    },
+                    {
+                        "name": "EndSem 2022",
+                        "url": "https://drive.google.com/file/d/1ZYuG5CXpZ2MyBLSY_2wO3frHdqWcJNu5/view?usp=share_link"
+                    }
+                ],
+                "books": [],
+                "class_materials": [
+                    {
+                        "name": "WE - Intro",
+                        "url": "https://drive.google.com/file/d/1IsQPm3biumDlvzVGrEK5TWtw_gKrkNkt/view?usp=share_link"
+                    },
+                    {
+                        "name": "AngularJS",
+                        "url": "https://drive.google.com/file/d/1oW0Qpk1vJwV7GfsfztcAibZ3jAGuPFE_/view?usp=share_link"
+                    },
+                    {
+                        "name": "JQuery",
+                        "url": "https://drive.google.com/file/d/1x2panb0P5epLn8KnibFPrTEzY0PUTrKP/view?usp=share_link"
+                    },
+                    {
+                        "name": "Callbacks",
+                        "url": "https://drive.google.com/file/d/1-ZOB8ED9cf0YyyxQV9xRG5_yPTgpiG1b/view?usp=share_link"
+                    },
+                    {
+                        "name": "DOM",
+                        "url": "https://drive.google.com/file/d/11pUPSBNpPcADypRd3nbie1cPJyIpnd_L/view?usp=share_link"
+                    },
+                    {
+                        "name": "MVC Laravel",
+                        "url": "https://drive.google.com/file/d/1FVWYhYoXxjJUMxN_oKgo_ykoFarM7O8j/view?usp=share_link"
+                    },
+                    {
+                        "name": "PHP-Database",
+                        "url": "https://drive.google.com/file/d/1UuYHyM10k92ba86fGhn1PmsrVhnnt62O/view?usp=share_link"
+                    },
+                    {
+                        "name": "PHP-Laravel",
+                        "url": "https://drive.google.com/file/d/1ihB_HmGMWtK_PJuTzIweQ6AFqrXt5YVZ/view?usp=share_link"
+                    }
+                ]
+            },
+            {
+                "code": "CS 642",
+                "name": "Cognitive Psychology ",
+                "icon": "cp6",
+                "cse": true,
+                "ece": true,
+                "exam_papers": [
+                    {
+                        "name": "EndSem 22",
+                        "url": "https://drive.google.com/file/d/1tBp1H_F_OWSmNF_ZD9gMJTncZKtrEn1s/view?usp=share_link"
+                    }
+                ],
+                "books": [
+                    {
+                        "name": "Book 1",
+                        "url": "https://drive.google.com/file/d/1B7f2hu663G1Tl4Bsy_2goGp9b7eYewWY/view?usp=share_link"
+                    },
+                    {
+                        "name": "Book 2",
+                        "url": "https://drive.google.com/file/d/1ikQ7mShIrN4fJDBZGcbq0fjcjhlriGLz/view?usp=share_link"
+                    },
+                    {
+                        "name": "Book 3",
+                        "url": "https://drive.google.com/file/d/10I8V2p6iftW-sz2Bpcdw85MINQJC1he9/view?usp=share_link"
+                    }
+                ],
+                "class_materials": [
+                    {
+                        "name": "Unit 1 Introduction",
+                        "url": "https://drive.google.com/file/d/1gkj5nZQotJrfAowEzrDyZbL2B__2o8Aq/view?usp=share_link"
+                    },
+                    {
+                        "name": "Unit 2 Perception",
+                        "url": "https://drive.google.com/file/d/1Kus6iaFKI7scJUrviPPnuSd929128-Xj/view?usp=share_link"
+                    },
+                    {
+                        "name": "Unit 3",
+                        "url": "https://drive.google.com/file/d/1oLUqCKhNpM2loGE-zn0TQu3htU_MZ0ap/view?usp=share_link"
+                    },
+                    {
+                        "name": "Unit 4 Problem Solving",
+                        "url": "https://drive.google.com/file/d/1vpMPA12mZREp8RtZ1iE8Fod-erEYRew5/view?usp=share_link"
+                    }
+                ]
             }
         ],
         "7": [
             {
                 "code": "CS 701",
                 "name": "Artificial Intelligence",
-                "icon": "ai.png",
+                "icon": "ai7",
                 "cse": true,
                 "ece": true,
                 "exam_papers": [
                     {
-                        "name": "Mid Sem 18",
-                        "url": "https://google.com"
+                        "name": "MidSem 2022",
+                        "url": "https://drive.google.com/file/d/1dQhW7My362syZ7wp6HCf0Wrm1dw05ZDz/view?usp=share_link"
                     },
                     {
-                        "name": "Mid Sem 19",
-                        "url": "https://google.com"
+                        "name": "MidSem 2022",
+                        "url": "https://drive.google.com/file/d/1f6LELI-kHc97qlelx4KkKX9iughS6iNa/view?usp=share_link"
                     }
                 ],
                 "books": [
                     {
-                        "name": "A book name",
-                        "url": "https://gmail.com"
+                        "name": "Artificial Intelligence - Russell",
+                        "url": "https://drive.google.com/file/d/1XV5gsthxnaLk0Frg8CEzTYW4oT5niO7l/view?usp=share_link"
                     }
                 ],
                 "class_materials": [
                     {
-                        "name": "A* Algorithm",
-                        "url": "https://gmail.com"
+                        "name": "ANN",
+                        "url": "https://docs.google.com/presentation/d/13XAnE6br1Cl3lSQ9YFUZPHXOX6BS_xEC/edit?usp=share_link&ouid=105247234582225652599&rtpof=true&sd=true"
+                    },
+                    {
+                        "name": "Hopfield Network - Book",
+                        "url": "https://drive.google.com/file/d/1nFoCI_VxnPBqk_Icd9O_hI5mXkVftuUO/view?usp=share_link"
+                    },
+                    {
+                        "name": "Hopfield Network",
+                        "url": "https://docs.google.com/presentation/d/1pFKzJdRfEQhBjDDYHRwhZ34TluT0L81-/edit?usp=share_link&ouid=105247234582225652599&rtpof=true&sd=true"
+                    },
+                    {
+                        "name": "Knowledge Aquisition",
+                        "url": "https://docs.google.com/presentation/d/1cW1VTdnwO-P52jJD_KG32U7Am6o-4JKa/edit?usp=share_link&ouid=105247234582225652599&rtpof=true&sd=true"
+                    },
+                    {
+                        "name": "Knowledge Representation",
+                        "url": "https://docs.google.com/presentation/d/1MY5COxAeeNWqDtk8eR8lamwXAIB-DDxM/edit?usp=share_link&ouid=105247234582225652599&rtpof=true&sd=true"
+                    },
+                    {
+                        "name": "Predicate Logic",
+                        "url": "https://drive.google.com/file/d/1TnpvDs9spB5TWgTb7fZL2QXbiOBMtON2/view?usp=share_link"
+                    },
+                    {
+                        "name": "Unit 1 Introduction",
+                        "url": "https://drive.google.com/file/d/1uSNu4HjzTp9TCbfdpLbtr_vEbgl_ecKL/view?usp=share_link"
+                    },
+                    {
+                        "name": "Unit 2 Searching",
+                        "url": "https://drive.google.com/file/d/10NLaW2c_8fWSDnmYGkmESZG9j66FSX3I/view?usp=share_link"
+                    },
+                    {
+                        "name": "Unit 3 Uncertainity",
+                        "url": "https://drive.google.com/file/d/1pTwyP-o0j8Y8a5dEr6V0gqf9IVbNZwMe/view?usp=share_link"
                     }
                 ]
             },
             {
                 "code": "CS 702",
                 "name": "Network Security",
-                "icon": "ns.png",
+                "icon": "ns7",
                 "cse": true,
                 "ece": false,
                 "exam_papers": [
                     {
-                        "name": "Mid Sem 18",
-                        "url": "https://google.com"
+                        "name": "EndSem 2022",
+                        "url": "https://drive.google.com/file/d/1-SXROkdfuU8OnCPdtwa0yG29Ls7PDxk6/view?usp=share_link"
                     },
                     {
-                        "name": "Mid Sem 19",
-                        "url": "https://google.com"
+                        "name": "MidSem 2022",
+                        "url": "https://drive.google.com/file/d/1vaDcYyCCg4vSGnqkMIX5s2oYeFMSsRm3/view?usp=share_link"
                     }
                 ],
-                "books": [
-                    {
-                        "name": "A book name",
-                        "url": "https://gmail.com"
-                    }
-                ],
-                "Class Material": [
-                    {
-                        "name": "A* Algorithm"
-                    }
-                ]
+                "books": [],
+                "class_materials": []
             },
             {
                 "code": "CS 703",
                 "name": "Natural Language Processing",
-                "icon": "nlp.png",
+                "icon": "nlp7",
                 "cse": true,
                 "ece": false,
                 "exam_papers": [
                     {
-                        "name": "Mid Sem 18",
-                        "url": "https://google.com"
+                        "name": "EndSem 2022",
+                        "url": "https://drive.google.com/file/d/1YgvcON25iaE56btCG3CarYr6ipRm5Ofj/view?usp=share_link"
                     },
                     {
-                        "name": "Mid Sem 19",
-                        "url": "https://google.com"
+                        "name": "MidSem 2022",
+                        "url": "https://drive.google.com/file/d/1x9g2R7mAVfrDvIi8xoQc71bFvZTHYErI/view?usp=share_link"
                     }
                 ],
-                "books": [
-                    {
-                        "name": "A book name",
-                        "url": "https://gmail.com"
-                    }
-                ],
-                "Class Material": [
-                    {
-                        "name": "A* Algorithm"
-                    }
-                ]
+                "books": [],
+                "class_materials": []
             },
             {
                 "code": "AE 704",
                 "name": "Innovation and Entrepreneurship",
-                "icon": "ie.png",
+                "icon": "ie7",
                 "cse": true,
                 "ece": true,
                 "exam_papers": [
                     {
-                        "name": "Mid Sem 18",
-                        "url": "https://google.com"
+                        "name": "MidSem 2022",
+                        "url": "https://drive.google.com/file/d/16EJ0PedzqNfkTcj5fbS3TRTGNEqpqZMz/view?usp=share_link"
                     },
                     {
-                        "name": "Mid Sem 19",
-                        "url": "https://google.com"
+                        "name": "EndSem 2022",
+                        "url": "https://drive.google.com/file/d/1mhJm8wfmgoFt1XWpi7xOhNifhm_mksMq/view?usp=share_link"
                     }
                 ],
-                "books": [
+                "books": [],
+                "class_materials": [
                     {
-                        "name": "A book name",
-                        "url": "https://gmail.com"
-                    }
-                ],
-                "Class Material": [
-                    {
-                        "name": "A* Algorithm"
+                        "name": "I&E Class Material",
+                        "url": "https://drive.google.com/file/d/10voTgRuwuKiQhaYTUoo_WD4aV0UIgeNH/view?usp=share_link"
                     }
                 ]
             },
             {
                 "code": "CS 751",
-                "name": "Block-chain Technology",
-                "icon": "bcl.png",
+                "name": "Blockchain & Technology",
+                "icon": "bcl7",
                 "cse": true,
                 "ece": true,
                 "exam_papers": [
                     {
-                        "name": "Mid Sem 18",
-                        "url": "https://google.com"
+                        "name": "MidSem 2022",
+                        "url": "https://drive.google.com/file/d/17btmoQzSOdcFLGSsG5ALHinwC2bn0LSy/view?usp=share_link"
                     },
                     {
-                        "name": "Mid Sem 19",
-                        "url": "https://google.com"
+                        "name": "EndSem 2022",
+                        "url": "https://drive.google.com/file/d/1FcTJ0nMCK8Vj9_U5hkwM8f6U99y5j8kQ/view?usp=share_link"
                     }
                 ],
-                "books": [
+                "books": [],
+                "class_materials": [
                     {
-                        "name": "A book name",
-                        "url": "https://gmail.com"
-                    }
-                ],
-                "Class Material": [
-                    {
-                        "name": "A* Algorithm"
-                    }
-                ]
-            },
-            {
-                "code": "CS 761",
-                "name": "Computer Ethics and Public Policy",
-                "icon": "cepp.png",
-                "cse": true,
-                "ece": true,
-                "exam_papers": [
-                    {
-                        "name": "Mid Sem 18",
-                        "url": "https://google.com"
+                        "name": "Introduction",
+                        "url": "https://drive.google.com/file/d/1krwgYvjMxaolUGD-Hr7X4lXiOadDrTw0/view?usp=share_link"
                     },
                     {
-                        "name": "Mid Sem 19",
-                        "url": "https://google.com"
-                    }
-                ],
-                "books": [
+                        "name": "Diffie Hellman",
+                        "url": "https://drive.google.com/file/d/1XSswbIuZkXa7cWAe1gDPiS2UlH2ky8EM/view?usp=share_link"
+                    },
                     {
-                        "name": "A book name",
-                        "url": "https://gmail.com"
-                    }
-                ],
-                "Class Material": [
+                        "name": "ECC",
+                        "url": "https://drive.google.com/file/d/1XSswbIuZkXa7cWAe1gDPiS2UlH2ky8EM/view?usp=share_link"
+                    },
                     {
-                        "name": "A* Algorithm"
+                        "name": "Etherium",
+                        "url": "https://docs.google.com/presentation/d/1zp_1qLYM1JJcm46zS-DGGD2zSImUHCua/edit?usp=share_link&ouid=105247234582225652599&rtpof=true&sd=true"
+                    },
+                    {
+                        "name": "GHOST Protocol",
+                        "url": "https://docs.google.com/presentation/d/1nwsV_r34igQk_B9juLn5dLYR0uKCFpKY/edit?usp=share_link&ouid=105247234582225652599&rtpof=true&sd=true"
+                    },
+                    {
+                        "name": "Distributed Blockchain",
+                        "url": "https://drive.google.com/file/d/10fgVVVPeBWp0L07FIe2w7WHK15ZY0i8e/view?usp=share_link"
+                    },
+                    {
+                        "name": "Cryptographic Primitives Hash",
+                        "url": "https://drive.google.com/file/d/17a_kFLUsKdqDuXpaKOeLIC5BByUtKkGk/view?usp=share_link"
+                    },
+                    {
+                        "name": "Cryptographic Primitives Encryption",
+                        "url": "https://drive.google.com/file/d/1NV7TS1DUyZ2nUpyyR_U3g61GHRRu0Jh8/view?usp=share_link"
+                    },
+                    {
+                        "name": "Blockchain Distributed Currency",
+                        "url": "https://drive.google.com/file/d/1bk9Ay839qNV_4OiIRjf5UegFLdT3nDh4/view?usp=share_link"
+                    },
+                    {
+                        "name": "DAO Smart Contract",
+                        "url": "https://drive.google.com/file/d/1yrSqhP6SSxWJL1tYgxa2MFcJuSN8oxqn/view?usp=share_link"
+                    },
+                    {
+                        "name": "Bitcoin",
+                        "url": "https://drive.google.com/file/d/1Qc-j7iEaAiaYpo9EP9thjF7rBmQI3DSh/view?usp=share_link"
+                    },
+                    {
+                        "name": "Case Studies",
+                        "url": "https://drive.google.com/file/d/14aADmk4MSM2mau8DO4tKG0s-nb2unqxk/view?usp=share_link"
+                    },
+                    {
+                        "name": "Sidechain and Namecoin",
+                        "url": "https://docs.google.com/presentation/d/1BZv_x_nbfs4Jm89qy1MkLjCSIVugcba_/edit?usp=share_link&ouid=105247234582225652599&rtpof=true&sd=true"
+                    },
+                    {
+                        "name": "Sybil Attack",
+                        "url": "https://docs.google.com/presentation/d/1075TveP8nrPE88POC9JndM8EjXJKWQXk/edit?usp=share_link&ouid=105247234582225652599&rtpof=true&sd=true"
                     }
                 ]
             },
             {
                 "code": "CS 762",
                 "name": "Web 2.0",
-                "icon": "web2.png",
+                "icon": "we7",
                 "cse": true,
                 "ece": true,
                 "exam_papers": [
                     {
-                        "name": "Mid Sem 18",
-                        "url": "https://google.com"
+                        "name": "MidSem 2022",
+                        "url": "https://drive.google.com/file/d/1koS4scE6Dy5k_W_h3RWxXDM6AT_SniN5/view?usp=share_link"
                     },
                     {
-                        "name": "Mid Sem 19",
-                        "url": "https://google.com"
+                        "name": "EndSem 2022",
+                        "url": "https://drive.google.com/file/d/1zVvmmG9-Vy7QMp-JiJYfCnPVjXNAKzW0/view?usp=share_link"
                     }
                 ],
-                "books": [
+                "books": [],
+                "class_materials": [
                     {
-                        "name": "A book name",
-                        "url": "https://gmail.com"
-                    }
-                ],
-                "Class Material": [
+                        "name": "Introduction",
+                        "url": "https://drive.google.com/file/d/1PXQcf5hmNqN8FHevUPWc58uRXkDUtWYe/view?usp=share_link"
+                    },
                     {
-                        "name": "A* Algorithm"
+                        "name": "JSON, AJAX & MASHUP",
+                        "url": "https://drive.google.com/file/d/1bStlSnUwbl9iIyCWUyUc7JBeAjCmAlRe/view?usp=share_link"
+                    },
+                    {
+                        "name": "MEAN stack, Patterns, Dockerization",
+                        "url": "https://drive.google.com/file/d/1ZoQZVtNnxPzCVdMsUDUTSx49zT3Hnqx-/view?usp=share_link"
+                    },
+                    {
+                        "name": "Protocols & Framework",
+                        "url": "https://drive.google.com/file/d/19Z8tu8V_V0fb2RV7zkP74T0ygRr14FE8/view?usp=share_link"
                     }
                 ]
             },
             {
                 "code": "EC 702",
                 "name": "Internet of Things",
-                "icon": "iot.png",
+                "icon": "iot7",
                 "cse": false,
                 "ece": true,
                 "exam_papers": [
                     {
-                        "name": "Mid Sem 18",
-                        "url": "https://google.com"
+                        "name": "MidSem 2022",
+                        "url": "https://drive.google.com/file/d/1LAtfTWDv6AWcCzCWGCp-L0XXfeWV6Jl-/view?usp=share_link"
                     },
                     {
-                        "name": "Mid Sem 19",
-                        "url": "https://google.com"
+                        "name": "EndSem 2022",
+                        "url": "https://drive.google.com/file/d/1uowg3Fo5e0BxhcyTSxxTH77WTKA0qHQd/view?usp=share_link"
                     }
                 ],
-                "books": [
+                "books": [],
+                "class_materials": [
                     {
-                        "name": "A book name",
-                        "url": "https://gmail.com"
-                    }
-                ],
-                "Class Material": [
+                        "name": "Introduction to Arduino",
+                        "url": "https://drive.google.com/file/d/1nOG8-qAXxqbLMvp1v6nqRZ9KqETB8FDF/view?usp=share_link"
+                    },
                     {
-                        "name": "A* Algorithm"
+                        "name": "Introduction to IoT",
+                        "url": "https://drive.google.com/file/d/1IYuxMvQnlp-apqMpMmMnIg58zz_JdUCQ/view?usp=share_link"
+                    },
+                    {
+                        "name": "M2M",
+                        "url": "https://drive.google.com/file/d/1OIMkQcYhUppNbLQLv2XEmrGszUKyguLp/view?usp=share_link"
+                    },
+                    {
+                        "name": "Sensors & Actuators",
+                        "url": "https://drive.google.com/file/d/1ithQA2iynD5vN3gNKVBbpxpb7YABMfwA/view?usp=share_link"
+                    },
+                    {
+                        "name": "Network & Communication",
+                        "url": "https://drive.google.com/file/d/1wb5mJepXAL-HrgVIO-X8XHDOwwj1D8vh/view?usp=share_link"
+                    },
+                    {
+                        "name": "Developing IoT based systems",
+                        "url": "https://drive.google.com/file/d/1YX37rv9tnK8H3tLIK9aoZM1LiAnqo5QH/view?usp=share_link"
+                    },
+                    {
+                        "name": "Challenges in IoT",
+                        "url": "https://drive.google.com/file/d/1D6MKQ04_4V74AnPf0GJDRctUdStNlQLq/view?usp=share_link"
                     }
                 ]
             },
             {
                 "code": "EC 703",
                 "name": "Image Processing and Computer Vision",
-                "icon": "ipcv.png",
+                "icon": "ipcv7",
                 "cse": false,
                 "ece": true,
                 "exam_papers": [
                     {
-                        "name": "Mid Sem 18",
-                        "url": "https://google.com"
+                        "name": "MidSem 2022",
+                        "url": "https://drive.google.com/file/d/1hs37BaVb3_H_wbUo8Dl05A0WvQvHMQGA/view?usp=share_link"
                     },
                     {
-                        "name": "Mid Sem 19",
-                        "url": "https://google.com"
+                        "name": "EndSem 2022",
+                        "url": "https://drive.google.com/file/d/19YWQWLQRY5FbfeKTdMN5EaUxlovV93oH/view?usp=share_link"
                     }
                 ],
                 "books": [
                     {
-                        "name": "A book name",
-                        "url": "https://gmail.com"
+                        "name": "Digital Image Processing - Rafael",
+                        "url": "https://drive.google.com/file/d/1qrWx8C1vH1g9d9bdPCeg1gvnvMxX9Sv9/view?usp=share_link"
                     }
                 ],
-                "Class Material": [
+                "class_materials": [
                     {
-                        "name": "A* Algorithm"
+                        "name": "Introduction",
+                        "url": "https://drive.google.com/file/d/11EJpGIoYo_PB8dzglvuNVh0euvoNehzE/view?usp=share_link"
+                    },
+                    {
+                        "name": "Digital Image Fundamental",
+                        "url": "https://drive.google.com/file/d/1pTUasmF05ptftDkf5O_j3o0bhmvaQwT8/view?usp=share_link"
+                    },
+                    {
+                        "name": "Image Enhancement in Spatial Domain",
+                        "url": "https://drive.google.com/file/d/1_OfiqpnKLsNPguvIb3s10V6jE_manY_k/view?usp=share_link"
+                    },
+                    {
+                        "name": "Image Enhancement in Spatial Domain - 2",
+                        "url": "https://drive.google.com/file/d/1WbSvtWXIjfh0p-XS-6RTMjskK-Pfgiwo/view?usp=share_link"
+                    },
+                    {
+                        "name": "Image Enhancement in Spatial Domain - 3",
+                        "url": "https://drive.google.com/file/d/1YAWBvK-w4UFB9BEXLQZ9RD5F3rHajF5i/view?usp=share_link"
+                    },
+                    {
+                        "name": "Image Enhancement in Spatial Domain - 4",
+                        "url": "https://drive.google.com/file/d/1CY-rXqRJNkEtg0fYSl0S14-C4T8utb30/view?usp=share_link"
+                    },
+                    {
+                        "name": "Image Segmentation",
+                        "url": "https://drive.google.com/file/d/17HY7K1YqmvnVx15OpsX0Ejms63On5BKa/view?usp=share_link"
+                    },
+                    {
+                        "name": "Image restoration: An Introduction",
+                        "url": "https://drive.google.com/file/d/1mDJwvnC7lNBJE-IZ8OUeJo2YGgeExkI2/view?usp=share_link"
+                    },
+                    {
+                        "name": "Morphological Image Processing",
+                        "url": "https://drive.google.com/file/d/1aXg77C5iCudufQayQ1-oRKpkHiYfbjp-/view?usp=share_link"
+                    },
+                    {
+                        "name": "Image Representation and Descriptor",
+                        "url": "https://docs.google.com/presentation/d/1U3vBW7WluTQaw66mKDjHq7HQ-y68oCHc/edit?usp=share_link&ouid=105247234582225652599&rtpof=true&sd=true"
+                    },
+                    {
+                        "name": "Image Description & Representation",
+                        "url": "https://docs.google.com/presentation/d/1L_vLtNPhpppCbhLxXs51oi-9rxYMK42w/edit?usp=share_link&ouid=105247234582225652599&rtpof=true&sd=true"
                     }
                 ]
             }
