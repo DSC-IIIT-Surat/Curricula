@@ -38,4 +38,4 @@ From Android Studio:
 This project is mantained by:
 * [Aditya Jaiswal](https://github.com/iam844)
 * [Aakash Gavle](https://github.com/aakash-gavle)
-
+* [Suraj Sisodia](https://github.com/surajsisodia)
